@@ -1,8 +1,8 @@
 {
-  "version": "0.2.2",
-  "file": "OSuite_0.2.2_x64-setup.exe",
-  "size": 55252253,
-  "sha256": "de4ee426d35a44897ac8f97413711ee60ba3db8a417a5ae652b0f1a539b913d1",
+  "version": "0.2.3",
+  "file": "OSuite_0.2.3_x64-setup.exe",
+  "size": 55263167,
+  "sha256": "c2beb326a5a758f8ce4878885075daa1840bd0e40bf065e072abb2f4575bded8",
   "published": "2026-10-20",
-  "url": "https://github.com/ofinit/osuite-releases/raw/main/OSuite_0.2.2_x64-setup.exe"
+  "url": "https://github.com/ofinit/osuite-releases/raw/main/OSuite_0.2.3_x64-setup.exe"
 }

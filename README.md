@@ -6,7 +6,7 @@ Download the latest version from https://osuite.business/download.
 
 | Version | File | SHA-256 |
 |---|---|---|
-| 0.2.2 | [OSuite_0.2.2_x64-setup.exe](OSuite_0.2.2_x64-setup.exe) | `de4ee426d35a44897ac8f97413711ee60ba3db8a417a5ae652b0f1a539b913d1` |
+| 0.2.3 | [OSuite_0.2.3_x64-setup.exe](OSuite_0.2.3_x64-setup.exe) | `c2beb326a5a758f8ce4878885075daa1840bd0e40bf065e072abb2f4575bded8` |
 
 Windows 10 or 11, 64-bit. The installer is not signed yet: if Windows shows "Windows protected your PC", choose **More info**, then **Run anyway**.
 
