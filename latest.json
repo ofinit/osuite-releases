@@ -1,8 +1,8 @@
 {
   "version": "0.2.5",
-  "file": "OSuite_0.2.5_x64-setup.exe",
-  "size": 56708050,
-  "sha256": "e6a301ecc2944d7cb684e1d242abe2aa8736e5a3684e0c9092e44fca97a24c2a",
+  "file": "OSuite_0.2.5_x64_en-US.msi",
+  "size": 91591271,
+  "sha256": "c792104e7ca3ec4612369739c8db47a6d3e0e7b773b163adb2041559d1794607",
   "published": "2026-10-20",
-  "url": "https://github.com/ofinit/osuite-releases/raw/main/OSuite_0.2.5_x64-setup.exe"
+  "url": "https://github.com/ofinit/osuite-releases/raw/main/OSuite_0.2.5_x64_en-US.msi"
 }
