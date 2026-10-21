@@ -1,10 +1,10 @@
 {
-  "version": "0.4.2",
-  "file": "OSuite_0.4.2_x64_en-US.msi",
-  "size": 93399947,
-  "sha256": "6439e613b5b865e8bca91e8c1f9439279896a961671078831c30a82bd05c04fe",
+  "version": "0.4.3",
+  "file": "OSuite_0.4.3_x64_en-US.msi",
+  "size": 93416621,
+  "sha256": "d4cf89fcf94cff01edc0827c419cca9ce9b83f228371927a0fd140620e07d50a",
   "published": "2026-10-21",
-  "url": "https://github.com/ofinit/osuite-releases/raw/main/OSuite_0.4.2_x64_en-US.msi",
-  "notes": "Appointments, a new app: a calendar by staff, and a page where customers book themselves.",
+  "url": "https://github.com/ofinit/osuite-releases/raw/main/OSuite_0.4.3_x64_en-US.msi",
+  "notes": "Maintenance, a new app: AMCs that plan their own visits, and job cards with parts and labour.",
   "important": false
 }
