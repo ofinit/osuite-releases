@@ -1,10 +1,10 @@
 {
-  "version": "0.3.4",
-  "file": "OSuite_0.3.4_x64_en-US.msi",
-  "size": 92394969,
-  "sha256": "a0c31d9021037e5d89599e3f15a50d71391a66cf836b0cc2a17b1269820ff06e",
+  "version": "0.4.0",
+  "file": "OSuite_0.4.0_x64_en-US.msi",
+  "size": 92502049,
+  "sha256": "57179cde4a8892b05261571410e65345ed61d83f99fd00464cd8280d6b85ee47",
   "published": "2026-10-21",
-  "url": "https://github.com/ofinit/osuite-releases/raw/main/OSuite_0.3.4_x64_en-US.msi",
-  "notes": "Email invoices with their PDF attached, and bill duty slips straight from the list.",
+  "url": "https://github.com/ofinit/osuite-releases/raw/main/OSuite_0.4.0_x64_en-US.msi",
+  "notes": "POS Restaurant, a new app, and every document on WhatsApp, free.",
   "important": false
 }
