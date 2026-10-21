@@ -1,10 +1,10 @@
 {
-  "version": "0.3.0",
-  "file": "OSuite_0.3.0_x64_en-US.msi",
-  "size": 92197770,
-  "sha256": "a70908b27c63fcb9d9355791d108c34aaa4f95cf1809e640ee5476b49d273b67",
+  "version": "0.3.1",
+  "file": "OSuite_0.3.1_x64_en-US.msi",
+  "size": 92361904,
+  "sha256": "762f3abd31e96d9ad0552ef3110c2ae4e850834ccad158c19609a020bba350a4",
   "published": "2026-10-21",
-  "url": "https://github.com/ofinit/osuite-releases/raw/main/OSuite_0.3.0_x64_en-US.msi",
-  "notes": "Take invoice payments through the gateways you use, for customers in India and abroad, in their currency.",
+  "url": "https://github.com/ofinit/osuite-releases/raw/main/OSuite_0.3.1_x64_en-US.msi",
+  "notes": "Download invoices as PDF, and duty slips that work out the fare, night charges and route fares as you fill them.",
   "important": false
 }
