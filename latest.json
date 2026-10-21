@@ -1,10 +1,10 @@
 {
-  "version": "0.3.3",
-  "file": "OSuite_0.3.3_x64_en-US.msi",
-  "size": 92382681,
-  "sha256": "040e13cade2575779e245290a00d2b5627deebc3f1788911fb37e2093b643b39",
+  "version": "0.3.4",
+  "file": "OSuite_0.3.4_x64_en-US.msi",
+  "size": 92394969,
+  "sha256": "a0c31d9021037e5d89599e3f15a50d71391a66cf836b0cc2a17b1269820ff06e",
   "published": "2026-10-21",
-  "url": "https://github.com/ofinit/osuite-releases/raw/main/OSuite_0.3.3_x64_en-US.msi",
-  "notes": "OSuite keeps you signed in.",
+  "url": "https://github.com/ofinit/osuite-releases/raw/main/OSuite_0.3.4_x64_en-US.msi",
+  "notes": "Email invoices with their PDF attached, and bill duty slips straight from the list.",
   "important": false
 }
