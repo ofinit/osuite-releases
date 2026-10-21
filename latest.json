@@ -1,10 +1,10 @@
 {
-  "version": "0.3.1",
-  "file": "OSuite_0.3.1_x64_en-US.msi",
-  "size": 92361904,
-  "sha256": "762f3abd31e96d9ad0552ef3110c2ae4e850834ccad158c19609a020bba350a4",
+  "version": "0.3.2",
+  "file": "OSuite_0.3.2_x64_en-US.msi",
+  "size": 92353712,
+  "sha256": "d60060704c9ec06eecec1e01c4f41d3d5e22734b848ba9dd824aa9003e19b922",
   "published": "2026-10-21",
-  "url": "https://github.com/ofinit/osuite-releases/raw/main/OSuite_0.3.1_x64_en-US.msi",
-  "notes": "Download invoices as PDF, and duty slips that work out the fare, night charges and route fares as you fill them.",
+  "url": "https://github.com/ofinit/osuite-releases/raw/main/OSuite_0.3.2_x64_en-US.msi",
+  "notes": "Companies are free, and your licence counts the people who use OSuite across all of them.",
   "important": false
 }
