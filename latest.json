@@ -1,10 +1,10 @@
 {
-  "version": "0.4.1",
-  "file": "OSuite_0.4.1_x64_en-US.msi",
-  "size": 93321537,
-  "sha256": "6bd09ca2b9e9f1c55dfe3009f6c01a1753f7b28e8b58af39151ea8812c2f483a",
+  "version": "0.4.2",
+  "file": "OSuite_0.4.2_x64_en-US.msi",
+  "size": 93399947,
+  "sha256": "6439e613b5b865e8bca91e8c1f9439279896a961671078831c30a82bd05c04fe",
   "published": "2026-10-21",
-  "url": "https://github.com/ofinit/osuite-releases/raw/main/OSuite_0.4.1_x64_en-US.msi",
-  "notes": "Documents on every record, and suppliers’ bills read with AI.",
+  "url": "https://github.com/ofinit/osuite-releases/raw/main/OSuite_0.4.2_x64_en-US.msi",
+  "notes": "Appointments, a new app: a calendar by staff, and a page where customers book themselves.",
   "important": false
 }
