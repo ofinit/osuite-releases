@@ -1,8 +1,10 @@
 {
-  "version": "0.2.8",
-  "file": "OSuite_0.2.8_x64_en-US.msi",
-  "size": 92107367,
-  "sha256": "97c11adb73a71bf8f820e2227a3d69d1a49e48973ddafa4b34a295b5a66b8a89",
+  "version": "0.2.9",
+  "file": "OSuite_0.2.9_x64_en-US.msi",
+  "size": 92119655,
+  "sha256": "069dfd593c56a4aabef627e9791eab9e7db9277b62259d9444e85f4be6d1ea1a",
   "published": "2026-10-21",
-  "url": "https://github.com/ofinit/osuite-releases/raw/main/OSuite_0.2.8_x64_en-US.msi"
+  "url": "https://github.com/ofinit/osuite-releases/raw/main/OSuite_0.2.9_x64_en-US.msi",
+  "notes": "A new version is easy to spot, and Download opens the download page in your browser.",
+  "important": false
 }
