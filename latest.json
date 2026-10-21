@@ -1,10 +1,10 @@
 {
-  "version": "0.4.0",
-  "file": "OSuite_0.4.0_x64_en-US.msi",
-  "size": 92502049,
-  "sha256": "57179cde4a8892b05261571410e65345ed61d83f99fd00464cd8280d6b85ee47",
+  "version": "0.4.1",
+  "file": "OSuite_0.4.1_x64_en-US.msi",
+  "size": 93321537,
+  "sha256": "6bd09ca2b9e9f1c55dfe3009f6c01a1753f7b28e8b58af39151ea8812c2f483a",
   "published": "2026-10-21",
-  "url": "https://github.com/ofinit/osuite-releases/raw/main/OSuite_0.4.0_x64_en-US.msi",
-  "notes": "POS Restaurant, a new app, and every document on WhatsApp, free.",
+  "url": "https://github.com/ofinit/osuite-releases/raw/main/OSuite_0.4.1_x64_en-US.msi",
+  "notes": "Documents on every record, and suppliers’ bills read with AI.",
   "important": false
 }
