@@ -1,10 +1,10 @@
 {
-  "version": "0.2.9",
-  "file": "OSuite_0.2.9_x64_en-US.msi",
-  "size": 92119655,
-  "sha256": "069dfd593c56a4aabef627e9791eab9e7db9277b62259d9444e85f4be6d1ea1a",
+  "version": "0.3.0",
+  "file": "OSuite_0.3.0_x64_en-US.msi",
+  "size": 92197770,
+  "sha256": "a70908b27c63fcb9d9355791d108c34aaa4f95cf1809e640ee5476b49d273b67",
   "published": "2026-10-21",
-  "url": "https://github.com/ofinit/osuite-releases/raw/main/OSuite_0.2.9_x64_en-US.msi",
-  "notes": "A new version is easy to spot, and Download opens the download page in your browser.",
+  "url": "https://github.com/ofinit/osuite-releases/raw/main/OSuite_0.3.0_x64_en-US.msi",
+  "notes": "Take invoice payments through the gateways you use, for customers in India and abroad, in their currency.",
   "important": false
 }
