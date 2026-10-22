@@ -1,10 +1,10 @@
 {
-  "version": "0.4.7",
-  "file": "OSuite_0.4.7_x64_en-US.msi",
-  "size": 93834877,
-  "sha256": "4dd8a7be219cefbc478e4458762a3a95f4b556040e3bd1e0373bfdec2a7d68fd",
+  "version": "0.4.8",
+  "file": "OSuite_0.4.8_x64_en-US.msi",
+  "size": 93992330,
+  "sha256": "82f460d2ec401ecd39ceddf65a629af43c8992413b34768440989579cebd6c0a",
   "published": "2026-10-22",
-  "url": "https://github.com/ofinit/osuite-releases/raw/main/OSuite_0.4.7_x64_en-US.msi",
-  "notes": "Choose whether to share usage counts with us, and tell us your kind of business.",
+  "url": "https://github.com/ofinit/osuite-releases/raw/main/OSuite_0.4.8_x64_en-US.msi",
+  "notes": "Marketing Studio for your social media, and payment reminders that chase unpaid invoices for you.",
   "important": false
 }
