@@ -1,10 +1,10 @@
 {
-  "version": "0.4.3",
-  "file": "OSuite_0.4.3_x64_en-US.msi",
-  "size": 93416621,
-  "sha256": "d4cf89fcf94cff01edc0827c419cca9ce9b83f228371927a0fd140620e07d50a",
-  "published": "2026-10-21",
-  "url": "https://github.com/ofinit/osuite-releases/raw/main/OSuite_0.4.3_x64_en-US.msi",
-  "notes": "Maintenance, a new app: AMCs that plan their own visits, and job cards with parts and labour.",
+  "version": "0.4.4",
+  "file": "OSuite_0.4.4_x64_en-US.msi",
+  "size": 93598767,
+  "sha256": "f22bdd2f49b3a8f894bc0985d76643acdb30c1d8682e8e98ad6f18822c6f3770",
+  "published": "2026-10-22",
+  "url": "https://github.com/ofinit/osuite-releases/raw/main/OSuite_0.4.4_x64_en-US.msi",
+  "notes": "Remote access for the desktop, UAE payroll, and more for restaurants and AMCs.",
   "important": false
 }
