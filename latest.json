@@ -1,10 +1,10 @@
 {
-  "version": "0.4.6",
-  "file": "OSuite_0.4.6_x64_en-US.msi",
-  "size": 93835174,
-  "sha256": "b2fa3de85b53d08298d2c35477eb8ce8864abce7a1c711889257d28fc43c46c4",
+  "version": "0.4.7",
+  "file": "OSuite_0.4.7_x64_en-US.msi",
+  "size": 93834877,
+  "sha256": "4dd8a7be219cefbc478e4458762a3a95f4b556040e3bd1e0373bfdec2a7d68fd",
   "published": "2026-10-22",
-  "url": "https://github.com/ofinit/osuite-releases/raw/main/OSuite_0.4.6_x64_en-US.msi",
-  "notes": "OSuite in Arabic, right to left.",
+  "url": "https://github.com/ofinit/osuite-releases/raw/main/OSuite_0.4.7_x64_en-US.msi",
+  "notes": "Choose whether to share usage counts with us, and tell us your kind of business.",
   "important": false
 }
