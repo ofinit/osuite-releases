@@ -1,10 +1,10 @@
 {
-  "version": "0.4.5",
-  "file": "OSuite_0.4.5_x64_en-US.msi",
-  "size": 93732482,
-  "sha256": "226424a226a545660db14f0380cebecbb44aac35f3f83ec8dfe5a25da744f6d8",
+  "version": "0.4.6",
+  "file": "OSuite_0.4.6_x64_en-US.msi",
+  "size": 93835174,
+  "sha256": "b2fa3de85b53d08298d2c35477eb8ce8864abce7a1c711889257d28fc43c46c4",
   "published": "2026-10-22",
-  "url": "https://github.com/ofinit/osuite-releases/raw/main/OSuite_0.4.5_x64_en-US.msi",
-  "notes": "Food cost for restaurants, and OSuite opens faster.",
+  "url": "https://github.com/ofinit/osuite-releases/raw/main/OSuite_0.4.6_x64_en-US.msi",
+  "notes": "OSuite in Arabic, right to left.",
   "important": false
 }
