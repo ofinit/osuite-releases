@@ -1,10 +1,10 @@
 {
-  "version": "0.4.4",
-  "file": "OSuite_0.4.4_x64_en-US.msi",
-  "size": 93598767,
-  "sha256": "f22bdd2f49b3a8f894bc0985d76643acdb30c1d8682e8e98ad6f18822c6f3770",
+  "version": "0.4.5",
+  "file": "OSuite_0.4.5_x64_en-US.msi",
+  "size": 93732482,
+  "sha256": "226424a226a545660db14f0380cebecbb44aac35f3f83ec8dfe5a25da744f6d8",
   "published": "2026-10-22",
-  "url": "https://github.com/ofinit/osuite-releases/raw/main/OSuite_0.4.4_x64_en-US.msi",
-  "notes": "Remote access for the desktop, UAE payroll, and more for restaurants and AMCs.",
+  "url": "https://github.com/ofinit/osuite-releases/raw/main/OSuite_0.4.5_x64_en-US.msi",
+  "notes": "Food cost for restaurants, and OSuite opens faster.",
   "important": false
 }
