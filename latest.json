@@ -1,10 +1,10 @@
 {
-  "version": "0.5.0",
-  "file": "OSuite_0.5.0_x64_en-US.msi",
-  "size": 94233785,
-  "sha256": "6ba94104cca3f3d751e8527e0b90e79d81e36e5c3ec873fe23e0e262f60db2ee",
+  "version": "0.5.1",
+  "file": "OSuite_0.5.1_x64_en-US.msi",
+  "size": 94237881,
+  "sha256": "e520aa80e2b382f76f9dbe1011eaf8caa5e5dc99dc1680f5e42c3daf7d5e2aa0",
   "published": "2026-10-23",
-  "url": "https://github.com/ofinit/osuite-releases/raw/main/OSuite_0.5.0_x64_en-US.msi",
-  "notes": "A CRM for the whole sales team: IndiaMART enquiries pulled in, leads shared out, a Today list, reports, and the pipeline set up your way.",
+  "url": "https://github.com/ofinit/osuite-releases/raw/main/OSuite_0.5.1_x64_en-US.msi",
+  "notes": "Edit and delete drafts from the list, a tidier side menu, and duty slips billed by their tariff.",
   "important": false
 }
