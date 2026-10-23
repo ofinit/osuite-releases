@@ -1,10 +1,10 @@
 {
-  "version": "0.4.9",
-  "file": "OSuite_0.4.9_x64_en-US.msi",
-  "size": 94033870,
-  "sha256": "4c0d501bb72c6bbbfdcaf58a492b3e177d92e8f9f512116d2a3cbd556493fd73",
-  "published": "2026-10-22",
-  "url": "https://github.com/ofinit/osuite-releases/raw/main/OSuite_0.4.9_x64_en-US.msi",
-  "notes": "Cloud backup to your own storage, and Ask OSuite: questions about your business in plain words.",
+  "version": "0.5.0",
+  "file": "OSuite_0.5.0_x64_en-US.msi",
+  "size": 94233785,
+  "sha256": "6ba94104cca3f3d751e8527e0b90e79d81e36e5c3ec873fe23e0e262f60db2ee",
+  "published": "2026-10-23",
+  "url": "https://github.com/ofinit/osuite-releases/raw/main/OSuite_0.5.0_x64_en-US.msi",
+  "notes": "A CRM for the whole sales team: IndiaMART enquiries pulled in, leads shared out, a Today list, reports, and the pipeline set up your way.",
   "important": false
 }
