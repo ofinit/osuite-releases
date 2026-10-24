@@ -1,10 +1,10 @@
 {
-  "version": "0.6.0",
-  "file": "OSuite_0.6.0_x64_en-US.msi",
-  "size": 94429345,
-  "sha256": "a629b3aefc5455c33666e4ffef45fc6c44e36dcdf578855910e6112f75296575",
-  "published": "2026-10-23",
-  "url": "https://github.com/ofinit/osuite-releases/raw/main/OSuite_0.6.0_x64_en-US.msi",
-  "notes": "Projects for a whole team, their clients and software teams: My tasks, a board, comments, a timer, a client portal, sprints and GitHub links.",
+  "version": "0.9.0",
+  "file": "OSuite_0.9.0_x64_en-US.msi",
+  "size": 94557811,
+  "sha256": "dbbe7722c783afd6e654cec4d2399b6b51b27e51614905de584beaa94aa73841",
+  "published": "2026-10-24",
+  "url": "https://github.com/ofinit/osuite-releases/raw/main/OSuite_0.9.0_x64_en-US.msi",
+  "notes": "Ask Claude, ChatGPT or your own AI about your business; a schedule you drag bookings on; and a choice of AI service.",
   "important": false
 }
