@@ -1,10 +1,10 @@
 {
-  "version": "0.9.0",
-  "file": "OSuite_0.9.0_x64_en-US.msi",
-  "size": 94557811,
-  "sha256": "dbbe7722c783afd6e654cec4d2399b6b51b27e51614905de584beaa94aa73841",
+  "version": "0.10.0",
+  "file": "OSuite_0.10.0_x64_en-US.msi",
+  "size": 94634016,
+  "sha256": "ddf95287d5dbc8bec5fa35efb03c84482225c5a717ff906a5c6dcea9c4eae526",
   "published": "2026-10-24",
-  "url": "https://github.com/ofinit/osuite-releases/raw/main/OSuite_0.9.0_x64_en-US.msi",
-  "notes": "Ask Claude, ChatGPT or your own AI about your business; a schedule you drag bookings on; and a choice of AI service.",
+  "url": "https://github.com/ofinit/osuite-releases/raw/main/OSuite_0.10.0_x64_en-US.msi",
+  "notes": "Voice notes after a call, and Marketing Studio posting straight to Facebook and Instagram from a calendar.",
   "important": false
 }
