@@ -1,10 +1,10 @@
 {
-  "version": "0.10.0",
-  "file": "OSuite_0.10.0_x64_en-US.msi",
-  "size": 94634016,
-  "sha256": "ddf95287d5dbc8bec5fa35efb03c84482225c5a717ff906a5c6dcea9c4eae526",
+  "version": "0.11.0",
+  "file": "OSuite_0.11.0_x64_en-US.msi",
+  "size": 94666816,
+  "sha256": "1e4e5e462428c5d332e95c93b1b6e4a6c5d71132a5c54a926ec4c473f656b853",
   "published": "2026-10-24",
-  "url": "https://github.com/ofinit/osuite-releases/raw/main/OSuite_0.10.0_x64_en-US.msi",
-  "notes": "Voice notes after a call, and Marketing Studio posting straight to Facebook and Instagram from a calendar.",
+  "url": "https://github.com/ofinit/osuite-releases/raw/main/OSuite_0.11.0_x64_en-US.msi",
+  "notes": "Your own domain and business email, bought and set up from OSuite.",
   "important": false
 }
