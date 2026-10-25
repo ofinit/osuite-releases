@@ -1,10 +1,10 @@
 {
-  "version": "0.12.0",
-  "file": "OSuite_0.12.0_x64_en-US.msi",
-  "size": 94769312,
-  "sha256": "33eb90ec9b85fd7e127813dc274e680f6381564e9a09b6ca5e169d9ec52934d8",
+  "version": "0.13.0",
+  "file": "OSuite_0.13.0_x64_en-US.msi",
+  "size": 94851296,
+  "sha256": "ecda17d940ac0d1c03bce012ffae8354f54a8f4e7aae7b24ef9305abf0ec577e",
   "published": "2026-10-25",
-  "url": "https://github.com/ofinit/osuite-releases/raw/main/OSuite_0.12.0_x64_en-US.msi",
-  "notes": "Loyalty & Offers: points on every sale, tiers, coupons and gift vouchers.",
+  "url": "https://github.com/ofinit/osuite-releases/raw/main/OSuite_0.13.0_x64_en-US.msi",
+  "notes": "Website Builder: a website for your business, made and kept up to date from OSuite.",
   "important": false
 }
