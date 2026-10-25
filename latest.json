@@ -1,10 +1,10 @@
 {
-  "version": "0.11.0",
-  "file": "OSuite_0.11.0_x64_en-US.msi",
-  "size": 94666816,
-  "sha256": "1e4e5e462428c5d332e95c93b1b6e4a6c5d71132a5c54a926ec4c473f656b853",
-  "published": "2026-10-24",
-  "url": "https://github.com/ofinit/osuite-releases/raw/main/OSuite_0.11.0_x64_en-US.msi",
-  "notes": "Your own domain and business email, bought and set up from OSuite.",
+  "version": "0.12.0",
+  "file": "OSuite_0.12.0_x64_en-US.msi",
+  "size": 94769312,
+  "sha256": "33eb90ec9b85fd7e127813dc274e680f6381564e9a09b6ca5e169d9ec52934d8",
+  "published": "2026-10-25",
+  "url": "https://github.com/ofinit/osuite-releases/raw/main/OSuite_0.12.0_x64_en-US.msi",
+  "notes": "Loyalty & Offers: points on every sale, tiers, coupons and gift vouchers.",
   "important": false
 }
