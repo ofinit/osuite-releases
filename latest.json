@@ -1,10 +1,10 @@
 {
-  "version": "0.13.0",
-  "file": "OSuite_0.13.0_x64_en-US.msi",
-  "size": 94851296,
-  "sha256": "ecda17d940ac0d1c03bce012ffae8354f54a8f4e7aae7b24ef9305abf0ec577e",
-  "published": "2026-10-25",
-  "url": "https://github.com/ofinit/osuite-releases/raw/main/OSuite_0.13.0_x64_en-US.msi",
-  "notes": "Website Builder: a website for your business, made and kept up to date from OSuite.",
+  "version": "0.14.0",
+  "file": "OSuite_0.14.0_x64_en-US.msi",
+  "size": 94900512,
+  "sha256": "b9149f6b8d69f6264cb226651ba7633da9296a119e7d05e3505656de5df3d836",
+  "published": "2026-10-26",
+  "url": "https://github.com/ofinit/osuite-releases/raw/main/OSuite_0.14.0_x64_en-US.msi",
+  "notes": "Customer Portal: customers see their account with you and order again. And From phone: send photos from a phone straight onto a record.",
   "important": false
 }
