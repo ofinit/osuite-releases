@@ -1,10 +1,10 @@
 {
-  "version": "0.14.0",
-  "file": "OSuite_0.14.0_x64_en-US.msi",
-  "size": 94900512,
-  "sha256": "b9149f6b8d69f6264cb226651ba7633da9296a119e7d05e3505656de5df3d836",
-  "published": "2026-10-26",
-  "url": "https://github.com/ofinit/osuite-releases/raw/main/OSuite_0.14.0_x64_en-US.msi",
-  "notes": "Customer Portal: customers see their account with you and order again. And From phone: send photos from a phone straight onto a record.",
+  "version": "0.15.0",
+  "file": "OSuite_0.15.0_x64_en-US.msi",
+  "size": 101737559,
+  "sha256": "f13c7ba239b14b5d9593610f4f4c0fa453db04507ccea0554408a8e0d1fe1855",
+  "published": "2026-10-27",
+  "url": "https://github.com/ofinit/osuite-releases/raw/main/OSuite_0.15.0_x64_en-US.msi",
+  "notes": "Team chat, To-do and My day, notifications on Windows and your phone, Live Chat and Shipping, Zapier and n8n, and bank statements as PDF or by email.",
   "important": false
 }
