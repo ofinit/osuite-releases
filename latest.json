@@ -1,10 +1,10 @@
 {
-  "version": "0.17.1",
-  "file": "OSuite_0.17.1_x64_en-US.msi",
-  "size": 103483378,
-  "sha256": "72a68823efb47b50bb0bfead499a3aad2a5cd1929521c712e794aeec78722adb",
+  "version": "0.18.0",
+  "file": "OSuite_0.18.0_x64_en-US.msi",
+  "size": 103607149,
+  "sha256": "9f2d75da242f5028911d6272ccfa4bf9c890fd4f3de6b7e3ac2244f2d3cbbf64",
   "published": "2026-10-28",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.17.1/OSuite_0.17.1_x64_en-US.msi",
-  "notes": "A bigger OSuite icon, and the taskbar button no longer shows a blank page.",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.18.0/OSuite_0.18.0_x64_en-US.msi",
+  "notes": "Marketplaces books your Amazon and Flipkart sales, fees, TCS, TDS and payouts from the reports you download, and Live Chat now works on your own website without an OSuite one.",
   "important": false
 }
