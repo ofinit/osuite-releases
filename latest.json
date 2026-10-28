@@ -1,10 +1,10 @@
 {
-  "version": "0.17.0",
-  "file": "OSuite_0.17.0_x64_en-US.msi",
-  "size": 103466579,
-  "sha256": "a9a21ac516aaa72786164c01449f48be8351674fa1aac291f924b6459c10824e",
-  "published": "2026-10-27",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.17.0/OSuite_0.17.0_x64_en-US.msi",
-  "notes": "OSuite Connect sends orders, invoices and payments straight to businesses that also use OSuite, and Notes gives your company its own wiki.",
+  "version": "0.17.1",
+  "file": "OSuite_0.17.1_x64_en-US.msi",
+  "size": 103483378,
+  "sha256": "72a68823efb47b50bb0bfead499a3aad2a5cd1929521c712e794aeec78722adb",
+  "published": "2026-10-28",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.17.1/OSuite_0.17.1_x64_en-US.msi",
+  "notes": "A bigger OSuite icon, and the taskbar button no longer shows a blank page.",
   "important": false
 }
