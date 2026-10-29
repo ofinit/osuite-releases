@@ -1,10 +1,10 @@
 {
-  "version": "0.18.0",
-  "file": "OSuite_0.18.0_x64_en-US.msi",
-  "size": 103607149,
-  "sha256": "9f2d75da242f5028911d6272ccfa4bf9c890fd4f3de6b7e3ac2244f2d3cbbf64",
-  "published": "2026-10-28",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.18.0/OSuite_0.18.0_x64_en-US.msi",
-  "notes": "Marketplaces books your Amazon and Flipkart sales, fees, TCS, TDS and payouts from the reports you download, and Live Chat now works on your own website without an OSuite one.",
+  "version": "0.18.1",
+  "file": "OSuite_0.18.1_x64_en-US.msi",
+  "size": 103590765,
+  "sha256": "a632d5e6703e861ffb6eef3ae325714f2d0840caa6f448483b144a7052420337",
+  "published": "2026-10-29",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.18.1/OSuite_0.18.1_x64_en-US.msi",
+  "notes": "Marketing Studio posts reach Facebook and Instagram more reliably, and when Meta says no you are told why in plain words.",
   "important": false
 }
