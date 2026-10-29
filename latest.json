@@ -1,10 +1,10 @@
 {
-  "version": "0.18.2",
-  "file": "OSuite_0.18.2_x64_en-US.msi",
-  "size": 103607149,
-  "sha256": "1ab5197e6152aedccfc20b91dfd1d7501acf9a1063646e75333f8f4609812b81",
+  "version": "0.18.3",
+  "file": "OSuite_0.18.3_x64_en-US.msi",
+  "size": 103603356,
+  "sha256": "abf8122ddd483e30cc56ea1cf8e28055bfbc8726e2adc97c66b85271775d2232",
   "published": "2026-10-29",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.18.2/OSuite_0.18.2_x64_en-US.msi",
-  "notes": "TDS follows the Income-tax Act, 2025, and you can see where your ideas stand and report a problem from any screen.",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.18.3/OSuite_0.18.3_x64_en-US.msi",
+  "notes": "Setting up another AI for Ask OSuite is easier and Gemini works on Telegram, and new people find how to link their Telegram.",
   "important": false
 }
