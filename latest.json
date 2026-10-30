@@ -1,10 +1,10 @@
 {
-  "version": "0.18.3",
-  "file": "OSuite_0.18.3_x64_en-US.msi",
-  "size": 103603356,
-  "sha256": "abf8122ddd483e30cc56ea1cf8e28055bfbc8726e2adc97c66b85271775d2232",
-  "published": "2026-10-29",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.18.3/OSuite_0.18.3_x64_en-US.msi",
-  "notes": "Setting up another AI for Ask OSuite is easier and Gemini works on Telegram, and new people find how to link their Telegram.",
+  "version": "0.18.4",
+  "file": "OSuite_0.18.4_x64_en-US.msi",
+  "size": 103599260,
+  "sha256": "c2924f065b14599cb8d738c845bc8d767f89c7ea80522d0940127fc6e750b0d1",
+  "published": "2026-10-30",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.18.4/OSuite_0.18.4_x64_en-US.msi",
+  "notes": "OSuite looks for a new version every hour, so you hear about updates sooner.",
   "important": false
 }
