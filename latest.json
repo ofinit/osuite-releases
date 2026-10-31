@@ -1,10 +1,10 @@
 {
-  "version": "0.18.4",
-  "file": "OSuite_0.18.4_x64_en-US.msi",
-  "size": 103599260,
-  "sha256": "c2924f065b14599cb8d738c845bc8d767f89c7ea80522d0940127fc6e750b0d1",
-  "published": "2026-10-30",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.18.4/OSuite_0.18.4_x64_en-US.msi",
-  "notes": "OSuite looks for a new version every hour, so you hear about updates sooner.",
+  "version": "0.19.0",
+  "file": "OSuite_0.19.0_x64_en-US.msi",
+  "size": 103669211,
+  "sha256": "a506b94db3e0c8dfae0a9ba5dc339f668bb20ce453d081ec80c2d62fb5e61b4e",
+  "published": "2026-10-31",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.19.0/OSuite_0.19.0_x64_en-US.msi",
+  "notes": "Businesses on the GST composition scheme can use OSuite: bills of supply, CMP-08 and GSTR-4. And news from OfinIT now appears inside OSuite.",
   "important": false
 }
