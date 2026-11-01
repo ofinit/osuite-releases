@@ -1,10 +1,10 @@
 {
-  "version": "0.21.0",
-  "file": "OSuite_0.21.0_x64_en-US.msi",
-  "size": 105060845,
-  "sha256": "39463641fe02268af8b6bb4910c6ae595b892da3941dae030ed6117d9aba33bb",
+  "version": "0.22.0",
+  "file": "OSuite_0.22.0_x64_en-US.msi",
+  "size": 105114975,
+  "sha256": "644faace4e3a08c49469c8d7cf15c983bc6a7658b90f258dd833c568ae89271e",
   "published": "2026-11-01",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.21.0/OSuite_0.21.0_x64_en-US.msi",
-  "notes": "OSuite on your phone: receive payments and see who owes what from a phone, through Remote access. And goods transporters get their income-tax figures, truck by truck.",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.22.0/OSuite_0.22.0_x64_en-US.msi",
+  "notes": "More of OSuite on your phone: make an invoice, check stock and prices, photograph a supplier’s bill, and choose which notifications reach you.",
   "important": false
 }
