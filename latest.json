@@ -1,10 +1,10 @@
 {
-  "version": "0.20.0",
-  "file": "OSuite_0.20.0_x64_en-US.msi",
-  "size": 104621398,
-  "sha256": "ffbd72956bfc55787016b6788a095f543f50c082be6d5ce5ecff246435de1e14",
-  "published": "2026-10-31",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.20.0/OSuite_0.20.0_x64_en-US.msi",
-  "notes": "TDS on vendor bills is now tracked through to the quarter’s return, the year’s figures for ITR-4 are added up for you, and a supplier’s GST bill can be read without AI, on your own computer.",
+  "version": "0.21.0",
+  "file": "OSuite_0.21.0_x64_en-US.msi",
+  "size": 105060845,
+  "sha256": "39463641fe02268af8b6bb4910c6ae595b892da3941dae030ed6117d9aba33bb",
+  "published": "2026-11-01",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.21.0/OSuite_0.21.0_x64_en-US.msi",
+  "notes": "OSuite on your phone: receive payments and see who owes what from a phone, through Remote access. And goods transporters get their income-tax figures, truck by truck.",
   "important": false
 }
