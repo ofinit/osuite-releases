@@ -1,10 +1,10 @@
 {
-  "version": "0.22.0",
-  "file": "OSuite_0.22.0_x64_en-US.msi",
-  "size": 105114975,
-  "sha256": "644faace4e3a08c49469c8d7cf15c983bc6a7658b90f258dd833c568ae89271e",
-  "published": "2026-11-01",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.22.0/OSuite_0.22.0_x64_en-US.msi",
-  "notes": "More of OSuite on your phone: make an invoice, check stock and prices, photograph a supplier’s bill, and choose which notifications reach you.",
+  "version": "0.23.0",
+  "file": "OSuite_0.23.0_x64_en-US.msi",
+  "size": 105148035,
+  "sha256": "e4cec15724689da73be0c1fbf610cb68397e0ffff7a88a5818e2e289c9c436a4",
+  "published": "2026-11-02",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.23.0/OSuite_0.23.0_x64_en-US.msi",
+  "notes": "New guides in the Help panel: the GST composition scheme, OSuite on your phone, and choosing which notifications reach you.",
   "important": false
 }
