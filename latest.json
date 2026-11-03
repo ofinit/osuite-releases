@@ -1,10 +1,10 @@
 {
-  "version": "0.23.0",
-  "file": "OSuite_0.23.0_x64_en-US.msi",
-  "size": 105148035,
-  "sha256": "e4cec15724689da73be0c1fbf610cb68397e0ffff7a88a5818e2e289c9c436a4",
-  "published": "2026-11-02",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.23.0/OSuite_0.23.0_x64_en-US.msi",
-  "notes": "New guides in the Help panel: the GST composition scheme, OSuite on your phone, and choosing which notifications reach you.",
+  "version": "0.25.0",
+  "file": "OSuite_0.25.0_x64_en-US.msi",
+  "size": 105279107,
+  "sha256": "674dd931244d4b6904ad1db1361eee2ee316b3af39999476ab79885152787310",
+  "published": "2026-11-03",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.25.0/OSuite_0.25.0_x64_en-US.msi",
+  "notes": "MSME suppliers paid on time, post-dated cheques that wait for their day, salary TDS by quarter, date ranges and Export on every list, and Download PDF that asks where to save.",
   "important": false
 }
