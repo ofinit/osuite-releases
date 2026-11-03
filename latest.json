@@ -1,10 +1,10 @@
 {
-  "version": "0.26.0",
-  "file": "OSuite_0.26.0_x64_en-US.msi",
+  "version": "0.27.0",
+  "file": "OSuite_0.27.0_x64_en-US.msi",
   "size": 105279107,
-  "sha256": "8d4a9915b7cd278d1f7a04fe015d869b66a966f34af13a2b9e1eae24278d591b",
-  "published": "2026-11-03",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.26.0/OSuite_0.26.0_x64_en-US.msi",
-  "notes": "WhatsApp sent by OSuite itself through your own MSG91, Twilio or Meta account, and Connections: every outside service OSuite works with, in one place.",
+  "sha256": "7459dfac9ba5f76dd4bec4ec01af5ab72e98887147a5778110ab2bdaff348cec",
+  "published": "2026-11-04",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.27.0/OSuite_0.27.0_x64_en-US.msi",
+  "notes": "A WhatsApp inbox for what customers send to your number, and support plans: Get help in OSuite, and Priority support with a reply within 4 working hours.",
   "important": false
 }
