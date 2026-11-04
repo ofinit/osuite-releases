@@ -1,10 +1,10 @@
 {
-  "version": "0.31.0",
-  "file": "OSuite_0.31.0_x64_en-US.msi",
-  "size": 108004825,
-  "sha256": "0778c261501a3f3fe7550c9676352b20da2880522030ecb3fc5435316a5f3ab8",
+  "version": "0.32.0",
+  "file": "OSuite_0.32.0_x64_en-US.msi",
+  "size": 108050477,
+  "sha256": "9dd344f8bf8c059c87ad57f0a33c5b65689b69742dafb445b81a82dd41195414",
   "published": "2026-11-04",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.31.0/OSuite_0.31.0_x64_en-US.msi",
-  "notes": "Email Campaigns: campaigns and newsletters built from blocks, sent to the customers in your books through your own Brevo, Amazon SES or Mailgun account.",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.32.0/OSuite_0.32.0_x64_en-US.msi",
+  "notes": "Attendance: shifts, fingerprint device files, a monthly register, and payroll that pays the days worked.",
   "important": false
 }
