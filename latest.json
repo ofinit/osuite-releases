@@ -1,10 +1,10 @@
 {
-  "version": "0.30.0",
-  "file": "OSuite_0.30.0_x64_en-US.msi",
-  "size": 107946882,
-  "sha256": "20656c8f1cbba22b1a185329895119db7b01a2703b90d1f26ec6f26351b62f0e",
+  "version": "0.31.0",
+  "file": "OSuite_0.31.0_x64_en-US.msi",
+  "size": 108004825,
+  "sha256": "0778c261501a3f3fe7550c9676352b20da2880522030ecb3fc5435316a5f3ab8",
   "published": "2026-11-04",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.30.0/OSuite_0.30.0_x64_en-US.msi",
-  "notes": "Custom fields on your records, saved reports sent by email or Telegram, totals and grouping on every list, and a Back button.",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.31.0/OSuite_0.31.0_x64_en-US.msi",
+  "notes": "Email Campaigns: campaigns and newsletters built from blocks, sent to the customers in your books through your own Brevo, Amazon SES or Mailgun account.",
   "important": false
 }
