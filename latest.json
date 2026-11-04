@@ -1,10 +1,10 @@
 {
-  "version": "0.28.0",
-  "file": "OSuite_0.28.0_x64_en-US.msi",
-  "size": 105262723,
-  "sha256": "9896e36c19cbd587c60c9284a67c686bc17940451d42a9391e1a392daa2d6e00",
+  "version": "0.29.0",
+  "file": "OSuite_0.29.0_x64_en-US.msi",
+  "size": 105597795,
+  "sha256": "9fe945835fc5984aa130645dbf1c11ad5540e3dfa4bb2314e35b6e57e95e965b",
   "published": "2026-11-04",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.28.0/OSuite_0.28.0_x64_en-US.msi",
-  "notes": "GST IMS with your bills matched and an action suggested for each supplier invoice, GSTR-1A for changes after GSTR-1 is filed, and approvals for documents that need someone’s yes.",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.29.0/OSuite_0.29.0_x64_en-US.msi",
+  "notes": "Landed cost for freight and duty, purchase requests with quotes from vendors compared side by side, and a supplier portal; and the installer now carries this version’s screens in full.",
   "important": false
 }
