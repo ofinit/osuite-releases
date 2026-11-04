@@ -1,10 +1,10 @@
 {
-  "version": "0.32.0",
-  "file": "OSuite_0.32.0_x64_en-US.msi",
-  "size": 108050477,
-  "sha256": "9dd344f8bf8c059c87ad57f0a33c5b65689b69742dafb445b81a82dd41195414",
+  "version": "0.33.0",
+  "file": "OSuite_0.33.0_x64_en-US.msi",
+  "size": 108265616,
+  "sha256": "043a2c3b17e41daf01e875c1b3e07a766af0e81f892b71dcbe9234d108c3ebcd",
   "published": "2026-11-04",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.32.0/OSuite_0.32.0_x64_en-US.msi",
-  "notes": "Attendance: shifts, fingerprint device files, a monthly register, and payroll that pays the days worked.",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.33.0/OSuite_0.33.0_x64_en-US.msi",
+  "notes": "Recurring invoices that send themselves and tell you: more schedules, the period on each invoice, a yearly increase, and an upcoming invoices list.",
   "important": false
 }
