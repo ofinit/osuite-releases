@@ -1,10 +1,10 @@
 {
-  "version": "0.34.0",
-  "file": "OSuite_0.34.0_x64_en-US.msi",
-  "size": 108474768,
-  "sha256": "3bad25322965e50a5cd89ea82d312d8e9db744fa5dd3a9b86135b1ab07ffac9c",
+  "version": "0.35.0",
+  "file": "OSuite_0.35.0_x64_en-US.msi",
+  "size": 108569168,
+  "sha256": "87cb091e4c15fdfd5d1f97ed0bf69d3378cf8f9f3bfaf857d1854c3b667cd6f0",
   "published": "2026-11-05",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.34.0/OSuite_0.34.0_x64_en-US.msi",
-  "notes": "Bill from your own websites: the Billing API, a hosted pay page, an order inbox for desktops, and safer API tokens.",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.35.0/OSuite_0.35.0_x64_en-US.msi",
+  "notes": "Groundwork for calls, sign-in codes and phone checks through your own MSG91 or Twilio account.",
   "important": false
 }
