@@ -1,10 +1,10 @@
 {
-  "version": "0.35.0",
-  "file": "OSuite_0.35.0_x64_en-US.msi",
-  "size": 108569168,
-  "sha256": "87cb091e4c15fdfd5d1f97ed0bf69d3378cf8f9f3bfaf857d1854c3b667cd6f0",
+  "version": "0.36.0",
+  "file": "OSuite_0.36.0_x64_en-US.msi",
+  "size": 108593776,
+  "sha256": "c68db7a16572a8d307208d3c07c12830d4c0c2b1c8fc40a361c77eb2b7f4dc5d",
   "published": "2026-11-05",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.35.0/OSuite_0.35.0_x64_en-US.msi",
-  "notes": "Groundwork for calls, sign-in codes and phone checks through your own MSG91 or Twilio account.",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.36.0/OSuite_0.36.0_x64_en-US.msi",
+  "notes": "A Messages report: everything sent through your own WhatsApp, SMS, voice and email providers, and how it stands.",
   "important": false
 }
