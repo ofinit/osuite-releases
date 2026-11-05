@@ -1,10 +1,10 @@
 {
-  "version": "0.33.0",
-  "file": "OSuite_0.33.0_x64_en-US.msi",
-  "size": 108265616,
-  "sha256": "043a2c3b17e41daf01e875c1b3e07a766af0e81f892b71dcbe9234d108c3ebcd",
-  "published": "2026-11-04",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.33.0/OSuite_0.33.0_x64_en-US.msi",
-  "notes": "Recurring invoices that send themselves and tell you: more schedules, the period on each invoice, a yearly increase, and an upcoming invoices list.",
+  "version": "0.34.0",
+  "file": "OSuite_0.34.0_x64_en-US.msi",
+  "size": 108474768,
+  "sha256": "3bad25322965e50a5cd89ea82d312d8e9db744fa5dd3a9b86135b1ab07ffac9c",
+  "published": "2026-11-05",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.34.0/OSuite_0.34.0_x64_en-US.msi",
+  "notes": "Bill from your own websites: the Billing API, a hosted pay page, an order inbox for desktops, and safer API tokens.",
   "important": false
 }
