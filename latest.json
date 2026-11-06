@@ -1,10 +1,10 @@
 {
-  "version": "0.40.0",
-  "file": "OSuite_0.40.0_x64_en-US.msi",
-  "size": 109313750,
-  "sha256": "ec457b6a44a26f4e79cd8e64a48d89c85cd0b4b6d2a9b38fe7e942cabec06b4a",
+  "version": "0.41.0",
+  "file": "OSuite_0.41.0_x64_en-US.msi",
+  "size": 109346839,
+  "sha256": "88baa56cf06f2c7ac9ca6c5ca85e7c5226c3466f83ca48490f0c99fb0aa66188",
   "published": "2026-11-06",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.40.0/OSuite_0.40.0_x64_en-US.msi",
-  "notes": "Billing by trade: usage, manpower supply, recruitment and exports, and your company’s own time zone.",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.41.0/OSuite_0.41.0_x64_en-US.msi",
+  "notes": "Bank statements in the CAMT.053, MT940 and OFX formats that banks in the UAE and abroad give.",
   "important": false
 }
