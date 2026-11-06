@@ -1,10 +1,10 @@
 {
-  "version": "0.38.0",
-  "file": "OSuite_0.38.0_x64_en-US.msi",
-  "size": 108847888,
-  "sha256": "eb0660a544e4c363bcf329bea0dec9db5d3764eb533801339fa6571a9c981941",
+  "version": "0.39.0",
+  "file": "OSuite_0.39.0_x64_en-US.msi",
+  "size": 109016016,
+  "sha256": "c8c02c278d2424ecea785ef5cc27757bc210eb69715e814350990a991faad22b",
   "published": "2026-11-06",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.38.0/OSuite_0.38.0_x64_en-US.msi",
-  "notes": "Payment stamps on invoices, and invoices for customers abroad in their own currency.",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.39.0/OSuite_0.39.0_x64_en-US.msi",
+  "notes": "Invoices for service businesses: the period billed, the contract, and a services layout.",
   "important": false
 }
