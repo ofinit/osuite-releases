@@ -1,10 +1,10 @@
 {
-  "version": "0.41.0",
-  "file": "OSuite_0.41.0_x64_en-US.msi",
-  "size": 109346839,
-  "sha256": "88baa56cf06f2c7ac9ca6c5ca85e7c5226c3466f83ca48490f0c99fb0aa66188",
-  "published": "2026-11-06",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.41.0/OSuite_0.41.0_x64_en-US.msi",
-  "notes": "Bank statements in the CAMT.053, MT940 and OFX formats that banks in the UAE and abroad give.",
+  "version": "0.42.0",
+  "file": "OSuite_0.42.0_x64_en-US.msi",
+  "size": 109661981,
+  "sha256": "2b9b7cda9a5816f0a53d097ee54e4a9a251ce5def15e93b40481cc9a31659756",
+  "published": "2026-11-07",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.42.0/OSuite_0.42.0_x64_en-US.msi",
+  "notes": "Dates, paper and money that follow your country, and the client portal in your own currency.",
   "important": false
 }
