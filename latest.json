@@ -1,10 +1,10 @@
 {
-  "version": "0.37.0",
-  "file": "OSuite_0.37.0_x64_en-US.msi",
-  "size": 108753552,
-  "sha256": "d086ea1a7648cad6558372780c05438b5ec5a57191795c9bb12994ab6b1d1ec0",
-  "published": "2026-11-05",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.37.0/OSuite_0.37.0_x64_en-US.msi",
-  "notes": "Ask OSuite knows how to use OSuite, and a clearer pay page for your website’s customers.",
+  "version": "0.38.0",
+  "file": "OSuite_0.38.0_x64_en-US.msi",
+  "size": 108847888,
+  "sha256": "eb0660a544e4c363bcf329bea0dec9db5d3764eb533801339fa6571a9c981941",
+  "published": "2026-11-06",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.38.0/OSuite_0.38.0_x64_en-US.msi",
+  "notes": "Payment stamps on invoices, and invoices for customers abroad in their own currency.",
   "important": false
 }
