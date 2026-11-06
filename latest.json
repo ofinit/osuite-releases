@@ -1,10 +1,10 @@
 {
-  "version": "0.39.0",
-  "file": "OSuite_0.39.0_x64_en-US.msi",
-  "size": 109016016,
-  "sha256": "c8c02c278d2424ecea785ef5cc27757bc210eb69715e814350990a991faad22b",
+  "version": "0.40.0",
+  "file": "OSuite_0.40.0_x64_en-US.msi",
+  "size": 109313750,
+  "sha256": "ec457b6a44a26f4e79cd8e64a48d89c85cd0b4b6d2a9b38fe7e942cabec06b4a",
   "published": "2026-11-06",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.39.0/OSuite_0.39.0_x64_en-US.msi",
-  "notes": "Invoices for service businesses: the period billed, the contract, and a services layout.",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.40.0/OSuite_0.40.0_x64_en-US.msi",
+  "notes": "Billing by trade: usage, manpower supply, recruitment and exports, and your company’s own time zone.",
   "important": false
 }
