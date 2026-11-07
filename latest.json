@@ -1,10 +1,10 @@
 {
-  "version": "0.45.0",
-  "file": "OSuite_0.45.0_x64_en-US.msi",
-  "size": 109916236,
-  "sha256": "fc0d8fb3bfd0c727b1df6c731c1043555e514c702156a3cb05448746959ba8bc",
-  "published": "2026-11-07",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.45.0/OSuite_0.45.0_x64_en-US.msi",
-  "notes": "Ask OSuite beside every screen, and a daily limit on AI use.",
+  "version": "0.46.0",
+  "file": "OSuite_0.46.0_x64_en-US.msi",
+  "size": 110633616,
+  "sha256": "861e5266b51ed2655c0014fba5d93f0ac88406281e154a02e131e111984490e0",
+  "published": "2026-11-08",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.46.0/OSuite_0.46.0_x64_en-US.msi",
+  "notes": "See Ask OSuite work step by step, more ways to make QR codes, and a fix to date filters on lists.",
   "important": false
 }
