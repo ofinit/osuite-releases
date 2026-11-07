@@ -1,10 +1,10 @@
 {
-  "version": "0.44.0",
-  "file": "OSuite_0.44.0_x64_en-US.msi",
-  "size": 109913011,
-  "sha256": "e3a355fb67384d71a3dac8852a21b5bb06b53976fdae6bbd22a99616e92a5aac",
+  "version": "0.45.0",
+  "file": "OSuite_0.45.0_x64_en-US.msi",
+  "size": 109916236,
+  "sha256": "fc0d8fb3bfd0c727b1df6c731c1043555e514c702156a3cb05448746959ba8bc",
   "published": "2026-11-07",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.44.0/OSuite_0.44.0_x64_en-US.msi",
-  "notes": "QR codes inside OSuite: make them from your company details, print product labels, and scan to find a product, add a contact or start a bill.",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.45.0/OSuite_0.45.0_x64_en-US.msi",
+  "notes": "Ask OSuite beside every screen, and a daily limit on AI use.",
   "important": false
 }
