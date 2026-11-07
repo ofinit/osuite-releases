@@ -1,10 +1,10 @@
 {
-  "version": "0.43.0",
-  "file": "OSuite_0.43.0_x64_en-US.msi",
-  "size": 109682461,
-  "sha256": "29759d5a4ab469c0f3edaa2543d9460c1f4fcfc363660e30cd7b8466d842bda1",
+  "version": "0.44.0",
+  "file": "OSuite_0.44.0_x64_en-US.msi",
+  "size": 109913011,
+  "sha256": "e3a355fb67384d71a3dac8852a21b5bb06b53976fdae6bbd22a99616e92a5aac",
   "published": "2026-11-07",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.43.0/OSuite_0.43.0_x64_en-US.msi",
-  "notes": "A clearer start for new companies, and customers and products copied from another company.",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.44.0/OSuite_0.44.0_x64_en-US.msi",
+  "notes": "QR codes inside OSuite: make them from your company details, print product labels, and scan to find a product, add a contact or start a bill.",
   "important": false
 }
