@@ -1,10 +1,10 @@
 {
-  "version": "0.47.0",
-  "file": "OSuite_0.47.0_x64_en-US.msi",
-  "size": 110650000,
-  "sha256": "49f867517677d7628d1f4cd5c24e92497634ec1b300338c3e971e1b92db99887",
+  "version": "0.48.0",
+  "file": "OSuite_0.48.0_x64_en-US.msi",
+  "size": 110719626,
+  "sha256": "774794ceb8f05a00a2f09a7d52d0bb3b3d427d63c4b538444453f965544c65e6",
   "published": "2026-11-08",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.47.0/OSuite_0.47.0_x64_en-US.msi",
-  "notes": "Speak to Ask OSuite and hear it answer, and send it voice messages on Telegram.",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.48.0/OSuite_0.48.0_x64_en-US.msi",
+  "notes": "Ask OSuite about your connections and change a few settings with your Yes, and import lists with how people agreed.",
   "important": false
 }
