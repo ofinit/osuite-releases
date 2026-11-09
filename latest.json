@@ -1,10 +1,10 @@
 {
-  "version": "0.53.0",
-  "file": "OSuite_0.53.0_x64_en-US.msi",
+  "version": "0.54.0",
+  "file": "OSuite_0.54.0_x64_en-US.msi",
   "size": 111546225,
-  "sha256": "2c4cebdb381fe64b16e8693fd3125cecee6e5f7de69b0d1fb0f63ab65aae393e",
+  "sha256": "ff4d8ace99754591b20629e58c2c4a60f811f21e1fb88ca178488139c4d82ac6",
   "published": "2026-11-09",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.53.0/OSuite_0.53.0_x64_en-US.msi",
-  "notes": "A clearer check of the AI service you use for Ask OSuite.",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.54.0/OSuite_0.54.0_x64_en-US.msi",
+  "notes": "A free business check on the website, and a full kit for OSuite partners.",
   "important": false
 }
