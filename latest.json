@@ -1,10 +1,10 @@
 {
-  "version": "0.55.0",
-  "file": "OSuite_0.55.0_x64_en-US.msi",
-  "size": 111583685,
-  "sha256": "dffd74887ca07ff551a0622d80e38dd8ea6c07a1af6ca6f0eb8dd1078da4517e",
+  "version": "0.56.0",
+  "file": "OSuite_0.56.0_x64_en-US.msi",
+  "size": 112636720,
+  "sha256": "6965fe237e38ba35b6ba40a3fc780224603f81bedca3ee4d17718edca8bca615",
   "published": "2026-11-09",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.55.0/OSuite_0.55.0_x64_en-US.msi",
-  "notes": "Every connection is now open, and OSuite can be set up in any country.",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.56.0/OSuite_0.56.0_x64_en-US.msi",
+  "notes": "One invoice for every sale from your website, with the PDF attached.",
   "important": false
 }
