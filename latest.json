@@ -1,10 +1,10 @@
 {
-  "version": "0.52.0",
-  "file": "OSuite_0.52.0_x64_en-US.msi",
-  "size": 111529841,
-  "sha256": "a5309d06907d797c0b45ccb678cea073cb541c788233c0b81ffe2a4fec83d8ce",
-  "published": "2026-11-08",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.52.0/OSuite_0.52.0_x64_en-US.msi",
-  "notes": "See what sells together, and show an offer on your online store.",
+  "version": "0.53.0",
+  "file": "OSuite_0.53.0_x64_en-US.msi",
+  "size": 111546225,
+  "sha256": "2c4cebdb381fe64b16e8693fd3125cecee6e5f7de69b0d1fb0f63ab65aae393e",
+  "published": "2026-11-09",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.53.0/OSuite_0.53.0_x64_en-US.msi",
+  "notes": "A clearer check of the AI service you use for Ask OSuite.",
   "important": false
 }
