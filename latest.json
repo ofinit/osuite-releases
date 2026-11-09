@@ -1,10 +1,10 @@
 {
-  "version": "0.57.0",
-  "file": "OSuite_0.57.0_x64_en-US.msi",
-  "size": 112653104,
-  "sha256": "0bfc71043635c6e4cb970fdbb566be56c2e7232ece3b3599f7364085c0b568ec",
-  "published": "2026-11-09",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.57.0/OSuite_0.57.0_x64_en-US.msi",
-  "notes": "Your signature on invoices, simpler email setup, and alerts for website sales.",
+  "version": "0.58.0",
+  "file": "OSuite_0.58.0_x64_en-US.msi",
+  "size": 112941768,
+  "sha256": "501e9ecb88ceb1e9bdb3dbe6b95b0de10bc0533de1de2ac45d807d7035d6316a",
+  "published": "2026-11-10",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.58.0/OSuite_0.58.0_x64_en-US.msi",
+  "notes": "Invoice designs, invoices that stay as issued, and correct PDFs in every country.",
   "important": false
 }
