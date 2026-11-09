@@ -1,10 +1,10 @@
 {
-  "version": "0.56.0",
-  "file": "OSuite_0.56.0_x64_en-US.msi",
-  "size": 112636720,
-  "sha256": "6965fe237e38ba35b6ba40a3fc780224603f81bedca3ee4d17718edca8bca615",
+  "version": "0.57.0",
+  "file": "OSuite_0.57.0_x64_en-US.msi",
+  "size": 112653104,
+  "sha256": "0bfc71043635c6e4cb970fdbb566be56c2e7232ece3b3599f7364085c0b568ec",
   "published": "2026-11-09",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.56.0/OSuite_0.56.0_x64_en-US.msi",
-  "notes": "One invoice for every sale from your website, with the PDF attached.",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.57.0/OSuite_0.57.0_x64_en-US.msi",
+  "notes": "Your signature on invoices, simpler email setup, and alerts for website sales.",
   "important": false
 }
