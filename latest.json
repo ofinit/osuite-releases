@@ -1,10 +1,10 @@
 {
-  "version": "0.60.0",
-  "file": "OSuite_0.60.0_x64_en-US.msi",
-  "size": 113164764,
-  "sha256": "ee4fc61416e996886ef4fa6c5b74423fc8b3e7521ca980e8e3a893caed24bcc5",
+  "version": "0.61.0",
+  "file": "OSuite_0.61.0_x64_en-US.msi",
+  "size": 113242903,
+  "sha256": "06798b9c0c3af85a9c2aa53a4d0b6cdcff549d3c39c7ee41c2e6d8e8f203f089",
   "published": "2026-11-10",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.60.0/OSuite_0.60.0_x64_en-US.msi",
-  "notes": "Hiring and performance reviews, and a sales assistant on My day.",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.61.0/OSuite_0.61.0_x64_en-US.msi",
+  "notes": "PDFs and notifications in the desktop app, invoice PDFs from the list, and emails with your name and logo.",
   "important": false
 }
