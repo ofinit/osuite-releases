@@ -1,10 +1,10 @@
 {
-  "version": "0.59.0",
-  "file": "OSuite_0.59.0_x64_en-US.msi",
-  "size": 112995612,
-  "sha256": "b055d40f6de3d8cdaf43006286f72699e0c27a5ca329eef779bc03927ce4f73d",
+  "version": "0.60.0",
+  "file": "OSuite_0.60.0_x64_en-US.msi",
+  "size": 113164764,
+  "sha256": "ee4fc61416e996886ef4fa6c5b74423fc8b3e7521ca980e8e3a893caed24bcc5",
   "published": "2026-11-10",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.59.0/OSuite_0.59.0_x64_en-US.msi",
-  "notes": "Sales territories, and commission paid on the payslip.",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.60.0/OSuite_0.60.0_x64_en-US.msi",
+  "notes": "Hiring and performance reviews, and a sales assistant on My day.",
   "important": false
 }
