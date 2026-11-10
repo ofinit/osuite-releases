@@ -1,10 +1,10 @@
 {
-  "version": "0.58.0",
-  "file": "OSuite_0.58.0_x64_en-US.msi",
-  "size": 112941768,
-  "sha256": "501e9ecb88ceb1e9bdb3dbe6b95b0de10bc0533de1de2ac45d807d7035d6316a",
+  "version": "0.59.0",
+  "file": "OSuite_0.59.0_x64_en-US.msi",
+  "size": 112995612,
+  "sha256": "b055d40f6de3d8cdaf43006286f72699e0c27a5ca329eef779bc03927ce4f73d",
   "published": "2026-11-10",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.58.0/OSuite_0.58.0_x64_en-US.msi",
-  "notes": "Invoice designs, invoices that stay as issued, and correct PDFs in every country.",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.59.0/OSuite_0.59.0_x64_en-US.msi",
+  "notes": "Sales territories, and commission paid on the payslip.",
   "important": false
 }
