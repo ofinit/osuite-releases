@@ -1,10 +1,10 @@
 {
-  "version": "0.61.0",
-  "file": "OSuite_0.61.0_x64_en-US.msi",
-  "size": 113242903,
-  "sha256": "06798b9c0c3af85a9c2aa53a4d0b6cdcff549d3c39c7ee41c2e6d8e8f203f089",
+  "version": "0.62.0",
+  "file": "OSuite_0.62.0_x64_en-US.msi",
+  "size": 113296742,
+  "sha256": "f2506bf652c99b2d2ff4dbd536a94b475d08109bb4100900897f6b19e047be71",
   "published": "2026-11-10",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.61.0/OSuite_0.61.0_x64_en-US.msi",
-  "notes": "PDFs and notifications in the desktop app, invoice PDFs from the list, and emails with your name and logo.",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.62.0/OSuite_0.62.0_x64_en-US.msi",
+  "notes": "Your own prefix for invoice numbers, and Cancel and reissue.",
   "important": false
 }
