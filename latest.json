@@ -1,10 +1,10 @@
 {
-  "version": "0.62.0",
-  "file": "OSuite_0.62.0_x64_en-US.msi",
-  "size": 113296742,
-  "sha256": "f2506bf652c99b2d2ff4dbd536a94b475d08109bb4100900897f6b19e047be71",
-  "published": "2026-11-10",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.62.0/OSuite_0.62.0_x64_en-US.msi",
-  "notes": "Your own prefix for invoice numbers, and Cancel and reissue.",
+  "version": "0.62.1",
+  "file": "OSuite_0.62.1_x64_en-US.msi",
+  "size": 113317222,
+  "sha256": "1ca482910712c1502aa7eb96f83d7dc2ec58e9cfd2c0e697fed926a82552aa64",
+  "published": "2026-11-11",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.62.1/OSuite_0.62.1_x64_en-US.msi",
+  "notes": "Cancel and reissue keeps a website sale to the paisa.",
   "important": false
 }
