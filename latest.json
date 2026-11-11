@@ -1,10 +1,10 @@
 {
-  "version": "0.62.1",
-  "file": "OSuite_0.62.1_x64_en-US.msi",
-  "size": 113317222,
-  "sha256": "1ca482910712c1502aa7eb96f83d7dc2ec58e9cfd2c0e697fed926a82552aa64",
+  "version": "0.62.2",
+  "file": "OSuite_0.62.2_x64_en-US.msi",
+  "size": 113313126,
+  "sha256": "aad41314aefd2f8d3bdd003cc3b50715f39b85ed61c89489654863d1233fc97c",
   "published": "2026-11-11",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.62.1/OSuite_0.62.1_x64_en-US.msi",
-  "notes": "Cancel and reissue keeps a website sale to the paisa.",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.62.2/OSuite_0.62.2_x64_en-US.msi",
+  "notes": "A tidier invoice footer.",
   "important": false
 }
