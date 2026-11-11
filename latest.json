@@ -1,10 +1,10 @@
 {
-  "version": "0.62.2",
-  "file": "OSuite_0.62.2_x64_en-US.msi",
-  "size": 113313126,
-  "sha256": "aad41314aefd2f8d3bdd003cc3b50715f39b85ed61c89489654863d1233fc97c",
+  "version": "0.62.3",
+  "file": "OSuite_0.62.3_x64_en-US.msi",
+  "size": 113317222,
+  "sha256": "c75d7f952d5d66dcd86b09c09f719f4417a27574b3472052c827782bf60127fb",
   "published": "2026-11-11",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.62.2/OSuite_0.62.2_x64_en-US.msi",
-  "notes": "A tidier invoice footer.",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.62.3/OSuite_0.62.3_x64_en-US.msi",
+  "notes": "Even spacing in the invoice footer.",
   "important": false
 }
