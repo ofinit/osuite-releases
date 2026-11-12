@@ -1,10 +1,10 @@
 {
-  "version": "0.63.1",
-  "file": "OSuite_0.63.1_x64_en-US.msi",
-  "size": 113486612,
-  "sha256": "26d7cca4444ecac918b414bd2f2b4ad700a5db7189ad89cdf53ad524e1952d26",
+  "version": "0.64.0",
+  "file": "OSuite_0.64.0_x64_en-US.msi",
+  "size": 113544251,
+  "sha256": "7531a0e5fac3146debc31debdff2b331155468a1ef655519b898e1a02699ba01",
   "published": "2026-11-12",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.63.1/OSuite_0.63.1_x64_en-US.msi",
-  "notes": "A tax check on invoices, in preview.",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.64.0/OSuite_0.64.0_x64_en-US.msi",
+  "notes": "Rentals by the hour or week, vehicles on rent, and refundable deposits.",
   "important": false
 }
