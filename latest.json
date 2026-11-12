@@ -1,10 +1,10 @@
 {
-  "version": "0.62.3",
-  "file": "OSuite_0.62.3_x64_en-US.msi",
-  "size": 113317222,
-  "sha256": "c75d7f952d5d66dcd86b09c09f719f4417a27574b3472052c827782bf60127fb",
-  "published": "2026-11-11",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.62.3/OSuite_0.62.3_x64_en-US.msi",
-  "notes": "Even spacing in the invoice footer.",
+  "version": "0.63.0",
+  "file": "OSuite_0.63.0_x64_en-US.msi",
+  "size": 113437172,
+  "sha256": "a707ed27f8933ca03622e11b0b1fcc6d6a977dcdfce5a797a6ae4ccf1e1dad83",
+  "published": "2026-11-12",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.63.0/OSuite_0.63.0_x64_en-US.msi",
+  "notes": "Service units on invoices: 1 Year, 3 Sessions, 240.5 Km, and the period a line covers.",
   "important": false
 }
