@@ -1,10 +1,10 @@
 {
-  "version": "0.65.0",
-  "file": "OSuite_0.65.0_x64_en-US.msi",
-  "size": 113605989,
-  "sha256": "a118839e8f6e0851ab24f35899e876391a80da9ed9d82a9e1645b4a786f8ca19",
-  "published": "2026-11-12",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.65.0/OSuite_0.65.0_x64_en-US.msi",
-  "notes": "Plan changes on recurring invoices, clearer usage lines, and your trade.",
+  "version": "0.66.0",
+  "file": "OSuite_0.66.0_x64_en-US.msi",
+  "size": 113651744,
+  "sha256": "f88855e72dff63ea6fa8e7c116b0d43605ad22ed2fc4475398d6905bd46edcb4",
+  "published": "2026-11-13",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.66.0/OSuite_0.66.0_x64_en-US.msi",
+  "notes": "Details on invoices, a discount on the whole invoice, and small balances written off.",
   "important": false
 }
