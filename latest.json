@@ -1,10 +1,10 @@
 {
-  "version": "0.63.0",
-  "file": "OSuite_0.63.0_x64_en-US.msi",
-  "size": 113437172,
-  "sha256": "a707ed27f8933ca03622e11b0b1fcc6d6a977dcdfce5a797a6ae4ccf1e1dad83",
+  "version": "0.63.1",
+  "file": "OSuite_0.63.1_x64_en-US.msi",
+  "size": 113486612,
+  "sha256": "26d7cca4444ecac918b414bd2f2b4ad700a5db7189ad89cdf53ad524e1952d26",
   "published": "2026-11-12",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.63.0/OSuite_0.63.0_x64_en-US.msi",
-  "notes": "Service units on invoices: 1 Year, 3 Sessions, 240.5 Km, and the period a line covers.",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.63.1/OSuite_0.63.1_x64_en-US.msi",
+  "notes": "A tax check on invoices, in preview.",
   "important": false
 }
