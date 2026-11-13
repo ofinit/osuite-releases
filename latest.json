@@ -1,10 +1,10 @@
 {
-  "version": "0.71.0",
-  "file": "OSuite_0.71.0_x64_en-US.msi",
-  "size": 114061568,
-  "sha256": "584ae1913f95fff4d9394a22a6f6b9f92d47fd285a924767d45e57c897a9fbc8",
+  "version": "0.72.0",
+  "file": "OSuite_0.72.0_x64_en-US.msi",
+  "size": 114086144,
+  "sha256": "2b1bc8aad3f752a670210cb00dd46ed1bb9153966da150585a8a6b32ab5ec9c5",
   "published": "2026-11-13",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.71.0/OSuite_0.71.0_x64_en-US.msi",
-  "notes": "GST rules tightened, and the tax master verified against the notifications.",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.72.0/OSuite_0.72.0_x64_en-US.msi",
+  "notes": "Pay later with Tabby and Tamara, and calls through Exotel and Knowlarity, in preview.",
   "important": false
 }
