@@ -1,10 +1,10 @@
 {
-  "version": "0.66.0",
-  "file": "OSuite_0.66.0_x64_en-US.msi",
-  "size": 113651744,
-  "sha256": "f88855e72dff63ea6fa8e7c116b0d43605ad22ed2fc4475398d6905bd46edcb4",
+  "version": "0.67.0",
+  "file": "OSuite_0.67.0_x64_en-US.msi",
+  "size": 113717312,
+  "sha256": "e2e703bcea18e2d70333f5e204e2c589015c5704be1fae6a3d8b08f98679fdbd",
   "published": "2026-11-13",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.66.0/OSuite_0.66.0_x64_en-US.msi",
-  "notes": "Details on invoices, a discount on the whole invoice, and small balances written off.",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.67.0/OSuite_0.67.0_x64_en-US.msi",
+  "notes": "Proforma invoices, job cards for any trade with a signed service report, and stage payments.",
   "important": false
 }
