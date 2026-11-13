@@ -1,10 +1,10 @@
 {
-  "version": "0.69.0",
-  "file": "OSuite_0.69.0_x64_en-US.msi",
-  "size": 113819776,
-  "sha256": "ce29b7d34e5e9030d4120b723f3eea51df34a0782982a88fa1cad10fc8a2b4ff",
+  "version": "0.70.0",
+  "file": "OSuite_0.70.0_x64_en-US.msi",
+  "size": 113905824,
+  "sha256": "dd367b06f0c4ddd96a099762acef5ed94af86420067132547c22fd53ce719d27",
   "published": "2026-11-13",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.69.0/OSuite_0.69.0_x64_en-US.msi",
-  "notes": "Invoices paid in instalments, and tips kept for the staff.",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.70.0/OSuite_0.70.0_x64_en-US.msi",
+  "notes": "GST treatment by item and place of supply by rule, in preview.",
   "important": false
 }
