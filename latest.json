@@ -1,10 +1,10 @@
 {
-  "version": "0.73.0",
-  "file": "OSuite_0.73.0_x64_en-US.msi",
-  "size": 114077952,
-  "sha256": "82bba463e08082183cb6d065697b42bcc44ebe37ebbca3d169d0e00bfd45c97a",
+  "version": "0.74.0",
+  "file": "OSuite_0.74.0_x64_en-US.msi",
+  "size": 114131232,
+  "sha256": "f5697ce04d6190e108442b30b6b520abb2f39490d1d7552567bb24c47e4330a2",
   "published": "2026-11-14",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.73.0/OSuite_0.73.0_x64_en-US.msi",
-  "notes": "Tabby, Tamara, Exotel and Knowlarity are now available to everyone.",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.74.0/OSuite_0.74.0_x64_en-US.msi",
+  "notes": "Oman and Singapore returns for everyone, UAE exempt reasons on items, Qatar tax numbers checked, and a reissued invoice can take back its original number.",
   "important": false
 }
