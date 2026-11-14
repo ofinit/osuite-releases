@@ -1,10 +1,10 @@
 {
-  "version": "0.72.0",
-  "file": "OSuite_0.72.0_x64_en-US.msi",
-  "size": 114086144,
-  "sha256": "2b1bc8aad3f752a670210cb00dd46ed1bb9153966da150585a8a6b32ab5ec9c5",
-  "published": "2026-11-13",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.72.0/OSuite_0.72.0_x64_en-US.msi",
-  "notes": "Pay later with Tabby and Tamara, and calls through Exotel and Knowlarity, in preview.",
+  "version": "0.73.0",
+  "file": "OSuite_0.73.0_x64_en-US.msi",
+  "size": 114077952,
+  "sha256": "82bba463e08082183cb6d065697b42bcc44ebe37ebbca3d169d0e00bfd45c97a",
+  "published": "2026-11-14",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.73.0/OSuite_0.73.0_x64_en-US.msi",
+  "notes": "Tabby, Tamara, Exotel and Knowlarity are now available to everyone.",
   "important": false
 }
