@@ -1,10 +1,10 @@
 {
-  "version": "0.74.0",
-  "file": "OSuite_0.74.0_x64_en-US.msi",
-  "size": 114131232,
-  "sha256": "f5697ce04d6190e108442b30b6b520abb2f39490d1d7552567bb24c47e4330a2",
-  "published": "2026-11-14",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.74.0/OSuite_0.74.0_x64_en-US.msi",
-  "notes": "Oman and Singapore returns for everyone, UAE exempt reasons on items, Qatar tax numbers checked, and a reissued invoice can take back its original number.",
+  "version": "0.74.1",
+  "file": "OSuite_0.74.1_x64_en-US.msi",
+  "size": 114135328,
+  "sha256": "7076e822c5e5c5f0099610246776322ff94c8ace1d8b1522d4687971b5e5a800",
+  "published": "2026-11-15",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.74.1/OSuite_0.74.1_x64_en-US.msi",
+  "notes": "List totals are right after archiving or cancelling.",
   "important": false
 }
