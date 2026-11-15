@@ -1,10 +1,10 @@
 {
-  "version": "0.75.0",
-  "file": "OSuite_0.75.0_x64_en-US.msi",
-  "size": 114291072,
-  "sha256": "b364f27713972ce87ef408adac0382fadad68ba5c61a19c800c32a48ea11726c",
+  "version": "0.75.1",
+  "file": "OSuite_0.75.1_x64_en-US.msi",
+  "size": 114315648,
+  "sha256": "2cd64b9dd96f4c6c4c00b6d15ca4b5d21efffe7f6ba613a235f6743b35010554",
   "published": "2026-11-15",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.75.0/OSuite_0.75.0_x64_en-US.msi",
-  "notes": "Proformas through the Billing API, paid online and invoiced by themselves; item details on proformas and on invoices outside India.",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.75.1/OSuite_0.75.1_x64_en-US.msi",
+  "notes": "The website pay page follows Powered by OSuite, and the Billing API’s descriptions are complete.",
   "important": false
 }
