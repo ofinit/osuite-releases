@@ -1,10 +1,10 @@
 {
-  "version": "0.74.2",
-  "file": "OSuite_0.74.2_x64_en-US.msi",
-  "size": 114180416,
-  "sha256": "8132572d2bfe4d5b4cafbb044cf0dfd91ab4cd7b31052b3ffb435c9ef53ef8f7",
+  "version": "0.75.0",
+  "file": "OSuite_0.75.0_x64_en-US.msi",
+  "size": 114291072,
+  "sha256": "b364f27713972ce87ef408adac0382fadad68ba5c61a19c800c32a48ea11726c",
   "published": "2026-11-15",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.74.2/OSuite_0.74.2_x64_en-US.msi",
-  "notes": "The Billing API takes service details and instalments, and websites hear when an invoice is cancelled or renumbered.",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.75.0/OSuite_0.75.0_x64_en-US.msi",
+  "notes": "Proformas through the Billing API, paid online and invoiced by themselves; item details on proformas and on invoices outside India.",
   "important": false
 }
