@@ -1,10 +1,10 @@
 {
-  "version": "0.74.1",
-  "file": "OSuite_0.74.1_x64_en-US.msi",
-  "size": 114135328,
-  "sha256": "7076e822c5e5c5f0099610246776322ff94c8ace1d8b1522d4687971b5e5a800",
+  "version": "0.74.2",
+  "file": "OSuite_0.74.2_x64_en-US.msi",
+  "size": 114180416,
+  "sha256": "8132572d2bfe4d5b4cafbb044cf0dfd91ab4cd7b31052b3ffb435c9ef53ef8f7",
   "published": "2026-11-15",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.74.1/OSuite_0.74.1_x64_en-US.msi",
-  "notes": "List totals are right after archiving or cancelling.",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.74.2/OSuite_0.74.2_x64_en-US.msi",
+  "notes": "The Billing API takes service details and instalments, and websites hear when an invoice is cancelled or renumbered.",
   "important": false
 }
