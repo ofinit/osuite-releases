@@ -1,10 +1,10 @@
 {
-  "version": "0.75.2",
-  "file": "OSuite_0.75.2_x64_en-US.msi",
-  "size": 114295168,
-  "sha256": "6cbd008ffc0513c7e4395abb4887e597f0823c991cb88d0d2f28f20ec496ba4b",
+  "version": "0.75.3",
+  "file": "OSuite_0.75.3_x64_en-US.msi",
+  "size": 114323840,
+  "sha256": "2c238ef39d15f9e5b20895e4f9dbb9d87fae5fe94213f723bfa1ad0d5938519a",
   "published": "2026-11-16",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.75.2/OSuite_0.75.2_x64_en-US.msi",
-  "notes": "Websites are told when no payment gateway can take a currency.",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.75.3/OSuite_0.75.3_x64_en-US.msi",
+  "notes": "The exchange rate’s help follows the law as it stands, and the developer docs answer more questions.",
   "important": false
 }
