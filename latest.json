@@ -1,10 +1,10 @@
 {
-  "version": "0.75.1",
-  "file": "OSuite_0.75.1_x64_en-US.msi",
-  "size": 114315648,
-  "sha256": "2cd64b9dd96f4c6c4c00b6d15ca4b5d21efffe7f6ba613a235f6743b35010554",
-  "published": "2026-11-15",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.75.1/OSuite_0.75.1_x64_en-US.msi",
-  "notes": "The website pay page follows Powered by OSuite, and the Billing API’s descriptions are complete.",
+  "version": "0.75.2",
+  "file": "OSuite_0.75.2_x64_en-US.msi",
+  "size": 114295168,
+  "sha256": "6cbd008ffc0513c7e4395abb4887e597f0823c991cb88d0d2f28f20ec496ba4b",
+  "published": "2026-11-16",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.75.2/OSuite_0.75.2_x64_en-US.msi",
+  "notes": "Websites are told when no payment gateway can take a currency.",
   "important": false
 }
