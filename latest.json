@@ -1,10 +1,10 @@
 {
-  "version": "0.76.2",
-  "file": "OSuite_0.76.2_x64_en-US.msi",
-  "size": 114368928,
-  "sha256": "e365c69c35294c8c1ca34ef20ab96b7fc73edf438941ed13af288706fa56ad1c",
+  "version": "0.76.3",
+  "file": "OSuite_0.76.3_x64_en-US.msi",
+  "size": 114364832,
+  "sha256": "bdebcba15cdb4af796e7730b3de187c7d9b651553d49cb9b4c770d570702110c",
   "published": "2026-11-16",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.76.2/OSuite_0.76.2_x64_en-US.msi",
-  "notes": "Websites can make their API client straight from the docs, and the API tokens screen says what each token can do.",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.76.3/OSuite_0.76.3_x64_en-US.msi",
+  "notes": "Send a sample of any webhook event, so a website can be tried on real data before it goes live.",
   "important": false
 }
