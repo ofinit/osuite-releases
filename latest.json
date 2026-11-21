@@ -1,10 +1,10 @@
 {
-  "version": "0.76.4",
-  "file": "OSuite_0.76.4_x64_en-US.msi",
-  "size": 114430400,
-  "sha256": "ecb84cd4ab098946124840792854b96a7213605e4c7b537c59a62f2d2dc8bb65",
-  "published": "2026-11-16",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.76.4/OSuite_0.76.4_x64_en-US.msi",
-  "notes": "A webhook for your website’s server can hear only what that website made.",
+  "version": "0.77.0",
+  "file": "OSuite_0.77.0_x64_en-US.msi",
+  "size": 114446816,
+  "sha256": "fd365eb7cd7fb66120c45191e61c4b5ed2fa1467a66af6d2bf682199d7ac24c8",
+  "published": "2026-11-21",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.77.0/OSuite_0.77.0_x64_en-US.msi",
+  "notes": "Settings in seven screens, with the parts that belong together side by side.",
   "important": false
 }
