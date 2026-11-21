@@ -1,10 +1,10 @@
 {
-  "version": "0.78.0",
-  "file": "OSuite_0.78.0_x64_en-US.msi",
+  "version": "0.78.1",
+  "file": "OSuite_0.78.1_x64_en-US.msi",
   "size": 114446816,
-  "sha256": "22e173251aa0949a7661ce23c18f2dcd9a57051322d41e8af24da3acdcfd5457",
+  "sha256": "ab1974e481a99ba003075ca8928ee970181f2f97494c17cbf0b88393f2274ce3",
   "published": "2026-11-21",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.78.0/OSuite_0.78.0_x64_en-US.msi",
-  "notes": "Remote access sets up Cloudflare for you.",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.78.1/OSuite_0.78.1_x64_en-US.msi",
+  "notes": "Set it up for me names every Cloudflare permission it needs.",
   "important": false
 }
