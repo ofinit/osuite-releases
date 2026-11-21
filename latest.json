@@ -1,10 +1,10 @@
 {
-  "version": "0.78.1",
-  "file": "OSuite_0.78.1_x64_en-US.msi",
-  "size": 114446816,
-  "sha256": "ab1974e481a99ba003075ca8928ee970181f2f97494c17cbf0b88393f2274ce3",
+  "version": "0.79.0",
+  "file": "OSuite_0.79.0_x64_en-US.msi",
+  "size": 114520640,
+  "sha256": "c399bd882bf54196b2d0b207fcf04b351ba730e48b8a6f0ced833d9dc2266470",
   "published": "2026-11-21",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.78.1/OSuite_0.78.1_x64_en-US.msi",
-  "notes": "Set it up for me names every Cloudflare permission it needs.",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.79.0/OSuite_0.79.0_x64_en-US.msi",
+  "notes": "eSign is an app: documents signed online. And boards to draw on in Notes.",
   "important": false
 }
