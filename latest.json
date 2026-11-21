@@ -1,10 +1,10 @@
 {
-  "version": "0.77.0",
-  "file": "OSuite_0.77.0_x64_en-US.msi",
+  "version": "0.78.0",
+  "file": "OSuite_0.78.0_x64_en-US.msi",
   "size": 114446816,
-  "sha256": "fd365eb7cd7fb66120c45191e61c4b5ed2fa1467a66af6d2bf682199d7ac24c8",
+  "sha256": "22e173251aa0949a7661ce23c18f2dcd9a57051322d41e8af24da3acdcfd5457",
   "published": "2026-11-21",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.77.0/OSuite_0.77.0_x64_en-US.msi",
-  "notes": "Settings in seven screens, with the parts that belong together side by side.",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.78.0/OSuite_0.78.0_x64_en-US.msi",
+  "notes": "Remote access sets up Cloudflare for you.",
   "important": false
 }
