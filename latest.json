@@ -1,10 +1,10 @@
 {
-  "version": "0.81.0",
-  "file": "OSuite_0.81.0_x64_en-US.msi",
-  "size": 114619040,
-  "sha256": "b5ea670d687d257726000f474c5c453c169ffb69f88cf4352076e71d01814f7d",
+  "version": "0.82.0",
+  "file": "OSuite_0.82.0_x64_en-US.msi",
+  "size": 114655904,
+  "sha256": "b49d66c5059f0591231ee8376f45d9c9b796069198b9e8536f734250c720c2a2",
   "published": "2026-11-22",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.81.0/OSuite_0.81.0_x64_en-US.msi",
-  "notes": "Whiteboard Live: several people drawing on one board at once.",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.82.0/OSuite_0.82.0_x64_en-US.msi",
+  "notes": "Group Accounts: the companies in your OSuite added up into one set of accounts.",
   "important": false
 }
