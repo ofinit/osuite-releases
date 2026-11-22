@@ -1,10 +1,10 @@
 {
-  "version": "0.80.0",
-  "file": "OSuite_0.80.0_x64_en-US.msi",
-  "size": 114582176,
-  "sha256": "9f374c5bdd45fd86437175443f3ac9d1d19b483387d32942a9179826152b2a76",
+  "version": "0.81.0",
+  "file": "OSuite_0.81.0_x64_en-US.msi",
+  "size": 114619040,
+  "sha256": "b5ea670d687d257726000f474c5c453c169ffb69f88cf4352076e71d01814f7d",
   "published": "2026-11-22",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.80.0/OSuite_0.80.0_x64_en-US.msi",
-  "notes": "Whiteboard has its own place: full screen, boards on customers and projects, more starting points.",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.81.0/OSuite_0.81.0_x64_en-US.msi",
+  "notes": "Whiteboard Live: several people drawing on one board at once.",
   "important": false
 }
