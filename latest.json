@@ -1,10 +1,10 @@
 {
-  "version": "0.82.0",
-  "file": "OSuite_0.82.0_x64_en-US.msi",
-  "size": 114655904,
-  "sha256": "b49d66c5059f0591231ee8376f45d9c9b796069198b9e8536f734250c720c2a2",
+  "version": "0.82.1",
+  "file": "OSuite_0.82.1_x64_en-US.msi",
+  "size": 114639520,
+  "sha256": "2eb432007f44895b1f6742e6c830c97240e22ff9d2c064ed23d03f31de88ff7b",
   "published": "2026-11-22",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.82.0/OSuite_0.82.0_x64_en-US.msi",
-  "notes": "Group Accounts: the companies in your OSuite added up into one set of accounts.",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.82.1/OSuite_0.82.1_x64_en-US.msi",
+  "notes": "The sidebar by area, and links in Ask OSuite’s answers.",
   "important": false
 }
