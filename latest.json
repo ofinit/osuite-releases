@@ -1,10 +1,10 @@
 {
-  "version": "0.83.0",
-  "file": "OSuite_0.83.0_x64_en-US.msi",
-  "size": 114762464,
-  "sha256": "da6aa374c74991f4b2c0ddc3340201a601be3dea629dd013b9b86cc71a055dd2",
-  "published": "2026-11-23",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.83.0/OSuite_0.83.0_x64_en-US.msi",
-  "notes": "OSuite Bot: give it the work, and say Yes to each change.",
+  "version": "0.84.0",
+  "file": "OSuite_0.84.0_x64_en-US.msi",
+  "size": 114885408,
+  "sha256": "e9d0196a7744e3bee7fe066755a753d7618d326f082105b84aade74064edfbbd",
+  "published": "2026-11-24",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.84.0/OSuite_0.84.0_x64_en-US.msi",
+  "notes": "OSuite Bot can use the computer and the browser (preview, desktop edition).",
   "important": false
 }
