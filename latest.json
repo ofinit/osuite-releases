@@ -1,10 +1,10 @@
 {
-  "version": "0.82.1",
-  "file": "OSuite_0.82.1_x64_en-US.msi",
-  "size": 114639520,
-  "sha256": "2eb432007f44895b1f6742e6c830c97240e22ff9d2c064ed23d03f31de88ff7b",
-  "published": "2026-11-22",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.82.1/OSuite_0.82.1_x64_en-US.msi",
-  "notes": "The sidebar by area, and links in Ask OSuite’s answers.",
+  "version": "0.83.0",
+  "file": "OSuite_0.83.0_x64_en-US.msi",
+  "size": 114762464,
+  "sha256": "da6aa374c74991f4b2c0ddc3340201a601be3dea629dd013b9b86cc71a055dd2",
+  "published": "2026-11-23",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.83.0/OSuite_0.83.0_x64_en-US.msi",
+  "notes": "OSuite Bot: give it the work, and say Yes to each change.",
   "important": false
 }
