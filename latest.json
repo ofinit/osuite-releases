@@ -1,10 +1,10 @@
 {
-  "version": "0.84.1",
-  "file": "OSuite_0.84.1_x64_en-US.msi",
-  "size": 114893600,
-  "sha256": "637a03a980e1107a61393e681e83d81e54423412392cfde8d0019b460aa76e13",
+  "version": "0.85.0",
+  "file": "OSuite_0.85.0_x64_en-US.msi",
+  "size": 114971456,
+  "sha256": "b631d27e320fdd79d34262400d8904b418a12a2a4a752f3ef6a698a0316e92ae",
   "published": "2026-11-24",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.84.1/OSuite_0.84.1_x64_en-US.msi",
-  "notes": "OSuite Bot uses the screen and the browser with any AI service, no longer a preview.",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.85.0/OSuite_0.85.0_x64_en-US.msi",
+  "notes": "OSuite Bot works in your project folders: files, commands and Git.",
   "important": false
 }
