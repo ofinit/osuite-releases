@@ -1,10 +1,10 @@
 {
-  "version": "0.84.0",
-  "file": "OSuite_0.84.0_x64_en-US.msi",
-  "size": 114885408,
-  "sha256": "e9d0196a7744e3bee7fe066755a753d7618d326f082105b84aade74064edfbbd",
+  "version": "0.84.1",
+  "file": "OSuite_0.84.1_x64_en-US.msi",
+  "size": 114893600,
+  "sha256": "637a03a980e1107a61393e681e83d81e54423412392cfde8d0019b460aa76e13",
   "published": "2026-11-24",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.84.0/OSuite_0.84.0_x64_en-US.msi",
-  "notes": "OSuite Bot can use the computer and the browser (preview, desktop edition).",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.84.1/OSuite_0.84.1_x64_en-US.msi",
+  "notes": "OSuite Bot uses the screen and the browser with any AI service, no longer a preview.",
   "important": false
 }
