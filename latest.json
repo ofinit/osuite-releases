@@ -1,10 +1,10 @@
 {
-  "version": "0.89.0",
-  "file": "OSuite_0.89.0_x64_en-US.msi",
-  "size": 115829319,
-  "sha256": "8ff910efacb6761de9ab067f835e95b4f611fff576861953705db5ea6e9a6dca",
+  "version": "0.90.0",
+  "file": "OSuite_0.90.0_x64_en-US.msi",
+  "size": 115894855,
+  "sha256": "876da28a0e4b754ea6cde2eb604820dac582ad0a0cff7c988ce433f51e351830",
   "published": "2026-11-24",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.89.0/OSuite_0.89.0_x64_en-US.msi",
-  "notes": "OSuite Bot learns skills, uses your other apps, and becomes a team of named bots.",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.90.0/OSuite_0.90.0_x64_en-US.msi",
+  "notes": "Show OSuite Bot a job once and it writes the skill; its meeting voice by language, country and tone.",
   "important": false
 }
