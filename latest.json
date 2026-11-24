@@ -1,10 +1,10 @@
 {
-  "version": "0.86.0",
-  "file": "OSuite_0.86.0_x64_en-US.msi",
-  "size": 114963264,
-  "sha256": "48ca6a1f4e83fb5273c7361252a44855344e220707082aaeaf5df025174a99f8",
+  "version": "0.87.0",
+  "file": "OSuite_0.87.0_x64_en-US.msi",
+  "size": 115455430,
+  "sha256": "4cea768439d6707116af4f8ee9b8fe44a71262c4c97f8cb1a0d34df55a6bc143",
   "published": "2026-11-24",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.86.0/OSuite_0.86.0_x64_en-US.msi",
-  "notes": "OSuite Bot is an app, with its own place in the sidebar; new prices by app.",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.87.0/OSuite_0.87.0_x64_en-US.msi",
+  "notes": "OSuite Bot goes to your meetings: it joins, records, writes the notes and the action items, and can answer when asked.",
   "important": false
 }
