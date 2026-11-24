@@ -1,10 +1,10 @@
 {
-  "version": "0.85.0",
-  "file": "OSuite_0.85.0_x64_en-US.msi",
-  "size": 114971456,
-  "sha256": "b631d27e320fdd79d34262400d8904b418a12a2a4a752f3ef6a698a0316e92ae",
+  "version": "0.86.0",
+  "file": "OSuite_0.86.0_x64_en-US.msi",
+  "size": 114963264,
+  "sha256": "48ca6a1f4e83fb5273c7361252a44855344e220707082aaeaf5df025174a99f8",
   "published": "2026-11-24",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.85.0/OSuite_0.85.0_x64_en-US.msi",
-  "notes": "OSuite Bot works in your project folders: files, commands and Git.",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.86.0/OSuite_0.86.0_x64_en-US.msi",
+  "notes": "OSuite Bot is an app, with its own place in the sidebar; new prices by app.",
   "important": false
 }
