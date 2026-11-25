@@ -1,10 +1,10 @@
 {
-  "version": "0.92.0",
-  "file": "OSuite_0.92.0_x64_en-US.msi",
-  "size": 116722300,
-  "sha256": "df108fb874d6b258a0310f02cc6835f8735cc25f7aa4fb6ca69c21edc729ecfc",
+  "version": "0.92.1",
+  "file": "OSuite_0.92.1_x64_en-US.msi",
+  "size": 116730492,
+  "sha256": "b39fc003c7eec01c054fb65e965998d47803a39c0e92fdb4f7fe34b9808bc453",
   "published": "2026-11-25",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.92.0/OSuite_0.92.0_x64_en-US.msi",
-  "notes": "Your own record types, mail and meetings on a customer’s timeline, boards on any list, field visit check-ins, and posting to Threads and LinkedIn.",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.92.1/OSuite_0.92.1_x64_en-US.msi",
+  "notes": "Your own record types now start automations and take imports.",
   "important": false
 }
