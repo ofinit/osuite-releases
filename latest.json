@@ -1,10 +1,10 @@
 {
-  "version": "0.90.0",
-  "file": "OSuite_0.90.0_x64_en-US.msi",
-  "size": 115894855,
-  "sha256": "876da28a0e4b754ea6cde2eb604820dac582ad0a0cff7c988ce433f51e351830",
-  "published": "2026-11-24",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.90.0/OSuite_0.90.0_x64_en-US.msi",
-  "notes": "Show OSuite Bot a job once and it writes the skill; its meeting voice by language, country and tone.",
+  "version": "0.91.0",
+  "file": "OSuite_0.91.0_x64_en-US.msi",
+  "size": 116380825,
+  "sha256": "a31ea6f1061689dd3d0bd5f8673c58583b4373c4f8ba91d3e1320e8323542621",
+  "published": "2026-11-25",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.91.0/OSuite_0.91.0_x64_en-US.msi",
+  "notes": "Automations, team plans for your bots, and an activity log of everything they do.",
   "important": false
 }
