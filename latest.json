@@ -1,10 +1,10 @@
 {
-  "version": "0.91.0",
-  "file": "OSuite_0.91.0_x64_en-US.msi",
-  "size": 116380825,
-  "sha256": "a31ea6f1061689dd3d0bd5f8673c58583b4373c4f8ba91d3e1320e8323542621",
+  "version": "0.92.0",
+  "file": "OSuite_0.92.0_x64_en-US.msi",
+  "size": 116722300,
+  "sha256": "df108fb874d6b258a0310f02cc6835f8735cc25f7aa4fb6ca69c21edc729ecfc",
   "published": "2026-11-25",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.91.0/OSuite_0.91.0_x64_en-US.msi",
-  "notes": "Automations, team plans for your bots, and an activity log of everything they do.",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.92.0/OSuite_0.92.0_x64_en-US.msi",
+  "notes": "Your own record types, mail and meetings on a customer’s timeline, boards on any list, field visit check-ins, and posting to Threads and LinkedIn.",
   "important": false
 }
