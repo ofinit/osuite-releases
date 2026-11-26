@@ -1,10 +1,10 @@
 {
-  "version": "0.92.1",
-  "file": "OSuite_0.92.1_x64_en-US.msi",
-  "size": 116730492,
-  "sha256": "b39fc003c7eec01c054fb65e965998d47803a39c0e92fdb4f7fe34b9808bc453",
-  "published": "2026-11-25",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.92.1/OSuite_0.92.1_x64_en-US.msi",
-  "notes": "Your own record types now start automations and take imports.",
+  "version": "0.93.0",
+  "file": "OSuite_0.93.0_x64_en-US.msi",
+  "size": 141149524,
+  "sha256": "e38868db2ca82d61db198830fbee1d283a8fd06d6d990f2b335d557d8617c1cb",
+  "published": "2026-11-26",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.93.0/OSuite_0.93.0_x64_en-US.msi",
+  "notes": "OSuite Bot gets its own space and learns from you, OSuite Builder lets you extend OSuite with your own code, Growth Desk works to bring money in, and a security round.",
   "important": false
 }
