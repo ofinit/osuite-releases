@@ -1,10 +1,10 @@
 {
-  "version": "0.94.0",
-  "file": "OSuite_0.94.0_x64_en-US.msi",
-  "size": 141161509,
-  "sha256": "7128260386d83ce201fcd7bdfd614c6123a8b4c01a3b423babf329958b3f17af",
+  "version": "0.95.0",
+  "file": "OSuite_0.95.0_x64_en-US.msi",
+  "size": 125478587,
+  "sha256": "cda132c12b72202fa9a2ae77d12167b6c2c5fdd60cd15e52802753547ea86066",
   "published": "2026-11-27",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.94.0/OSuite_0.94.0_x64_en-US.msi",
-  "notes": "WhatsApp Campaigns is open to everyone, a bot can work web pages with Fara on your own computer, and the AI on your computer can read bills.",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.95.0/OSuite_0.95.0_x64_en-US.msi",
+  "notes": "OSuite in Chrome and Edge, a code editor for everyone kept apart from your data, OSuite’s data folder locked down, and OSuite Builder retired.",
   "important": false
 }
