@@ -1,10 +1,10 @@
 {
-  "version": "0.93.0",
-  "file": "OSuite_0.93.0_x64_en-US.msi",
-  "size": 141149524,
-  "sha256": "e38868db2ca82d61db198830fbee1d283a8fd06d6d990f2b335d557d8617c1cb",
-  "published": "2026-11-26",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.93.0/OSuite_0.93.0_x64_en-US.msi",
-  "notes": "OSuite Bot gets its own space and learns from you, OSuite Builder lets you extend OSuite with your own code, Growth Desk works to bring money in, and a security round.",
+  "version": "0.94.0",
+  "file": "OSuite_0.94.0_x64_en-US.msi",
+  "size": 141161509,
+  "sha256": "7128260386d83ce201fcd7bdfd614c6123a8b4c01a3b423babf329958b3f17af",
+  "published": "2026-11-27",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.94.0/OSuite_0.94.0_x64_en-US.msi",
+  "notes": "WhatsApp Campaigns is open to everyone, a bot can work web pages with Fara on your own computer, and the AI on your computer can read bills.",
   "important": false
 }
