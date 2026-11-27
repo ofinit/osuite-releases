@@ -1,10 +1,10 @@
 {
-  "version": "0.95.0",
-  "file": "OSuite_0.95.0_x64_en-US.msi",
-  "size": 125478587,
-  "sha256": "cda132c12b72202fa9a2ae77d12167b6c2c5fdd60cd15e52802753547ea86066",
+  "version": "0.96.0",
+  "file": "OSuite_0.96.0_x64_en-US.msi",
+  "size": 125586544,
+  "sha256": "0cc172b989cb770d78e7f85976e6156494fb19aad51f07285dae3773800e0ce4",
   "published": "2026-11-27",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.95.0/OSuite_0.95.0_x64_en-US.msi",
-  "notes": "OSuite in Chrome and Edge, a code editor for everyone kept apart from your data, OSuite’s data folder locked down, and OSuite Builder retired.",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.96.0/OSuite_0.96.0_x64_en-US.msi",
+  "notes": "Screens for one kind of work now have the whole width, a new Inbox brings WhatsApp, Live chat and Team chat together, and setting things up is a few short steps with a real test at the end.",
   "important": false
 }
