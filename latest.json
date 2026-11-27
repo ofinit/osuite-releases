@@ -1,10 +1,10 @@
 {
-  "version": "0.96.0",
-  "file": "OSuite_0.96.0_x64_en-US.msi",
-  "size": 125586544,
-  "sha256": "0cc172b989cb770d78e7f85976e6156494fb19aad51f07285dae3773800e0ce4",
+  "version": "0.97.0",
+  "file": "OSuite_0.97.0_x64_en-US.msi",
+  "size": 125664812,
+  "sha256": "dc78e0495a06506611a7e1db73dab71afb035d288eaffb8dc151008e931ece97",
   "published": "2026-11-27",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.96.0/OSuite_0.96.0_x64_en-US.msi",
-  "notes": "Screens for one kind of work now have the whole width, a new Inbox brings WhatsApp, Live chat and Team chat together, and setting things up is a few short steps with a real test at the end.",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.97.0/OSuite_0.97.0_x64_en-US.msi",
+  "notes": "OSuite Bot does any job you give it, in OSuite and on your computer: in your own browser and programs, by voice, with files and pictures. And the code editor’s Windows account can now be set up.",
   "important": false
 }
