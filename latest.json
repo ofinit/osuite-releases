@@ -1,10 +1,10 @@
 {
-  "version": "0.98.0",
-  "file": "OSuite_0.98.0_x64_en-US.msi",
-  "size": 125734732,
-  "sha256": "966f71b009084a56ac6495cd543209406be6021d3cea7ece1a37c2e28d8fc8c9",
+  "version": "0.98.1",
+  "file": "OSuite_0.98.1_x64_en-US.msi",
+  "size": 125788271,
+  "sha256": "8f4bffceaeb202780a31fff261234d780cf8771d72f9a9b7f71df65dea284bc8",
   "published": "2026-11-28",
-  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.98.0/OSuite_0.98.0_x64_en-US.msi",
-  "notes": "Choose the AI for each OSuite Bot job, or take its suggestion. Spend less on AI without thinking about it. And a dark mode, for when you want one.",
+  "url": "https://github.com/ofinit/osuite-releases/releases/download/v0.98.1/OSuite_0.98.1_x64_en-US.msi",
+  "notes": "Work on your screen always goes to Claude, quick and sure. Test a skill before you rely on it, and see how each bot and AI did.",
   "important": false
 }
